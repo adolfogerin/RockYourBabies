@@ -1,0 +1,9 @@
+/*Stylesheet*/
+
+body, html {
+	margin: 			0;
+	padding: 			0;
+	color: 				#ccc;
+	/*background-color:	#333;*/
+    overflow:           hidden;
+}

@@ -1,0 +1,6483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cds>
+    <cd>
+        <id>dj</id>
+        <titulo>DJ ROCK YOUR BABIES</titulo>
+        <cor>
+            <bg>00a79d</bg>
+            <fg>1a75bc</fg>
+            <icon>754c29</icon>
+            <out>9dbc47</out>
+            <letter>ffffff</letter>
+        </cor>
+    </cd>
+    <cd>
+        <id>barao</id>
+        <titulo>BARÃO VERMELHO</titulo>
+        <cor>
+            <bg>a6d7ee</bg>
+            <fg>3b4694</fg>
+            <icon>90c74a</icon>
+            <out>ed3237</out>
+            <letter>ffffff</letter>
+        </cor>
+        <faixas>12</faixas>
+        <musicas>
+            <faixa>
+                <nome>Pro Dia Nascer Feliz</nome>
+                <sample>barao_01_ProDiaNascerFeliz.mp3</sample>
+                <autor>
+(Cazuza, Frejat)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1983 no CD Barão Vermelho 2</original>
+                <letra>
+Todo dia a insônia
+Me convence que o céu
+Faz tudo ficar infinito
+E que a solidão
+É pretensão de quem fica
+Escondido fazendo fita
+Todo dia tem a hora da sessão coruja, hum...
+Só entende quem namora
+Agora vambora 
+Estamos bem por um triz
+
+Pro dia nascer feliz, hum...
+Pro dia nascer feliz
+O mundo inteiro acordar
+E a gente dormir, dormir
+Pro dia nascer feliz
+Ah! Essa é a vida que eu quis
+O mundo inteiro acordar
+E a gente dormir...
+
+Todo dia é dia
+E tudo em nome do amor
+Ah! Essa é a vida que eu quis
+Procurando vaga
+Uma hora aqui, a outra ali
+No vai e vem dos teus quadris
+Nadando contra a corrente
+Só pra exercitar...
+Todo o músculo que sente
+Me dê de presente o teu bis
+                </letra>   
+            </faixa>
+            <faixa>
+                <nome>Maior Abandonado</nome>
+                <sample>barao_02_MaiorAbandonado.mp3</sample>
+                <autor>
+(Frejat/Cazuza)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1984 no CD Maior Abandonado</original>
+                <letra>
+Eu tô perdido
+Sem pai nem mãe
+Bem na porta da tua casa
+Eu tô pedindo
+A tua mão
+E um pouquinho do braço
+
+Migalhas dormidas do teu pão
+Raspas e restos
+Me interessam
+Pequenas poções de ilusão
+Mentiras sinceras me interessam
+Me interessam
+
+Eu tô pedindo 
+A tua mão
+Me leve para qualquer lado
+Só um pouquinho
+De proteção
+Ao maior abandonado
+
+Seu corpo com amor ou não
+Raspas e restos me interessam
+Me ame como a um irmão
+Mentiras sinceras me interessam
+Me interessam
+                </letra>  
+            </faixa>
+            <faixa>
+                <nome>Bete Balanço</nome>
+                <sample>barao_03_BeteBalanco.mp3</sample>
+                <autor>
+(Frejat/Cazuza)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1984 no CD Maior Abandonado</original>
+                <letra>
+Pode seguir a tua estrela
+O teu brinquedo de star
+Fantasiando em segredo
+O ponto aonde quer chegar
+
+O teu futuro é duvidoso
+Eu vejo grana, eu vejo dor
+No paraíso perigoso
+Que a palma da tua mão mostrou
+
+Quem vem com tudo não cansa
+Bete balança meu amor
+Me avise quando for a hora
+
+Não ligue pra essas caras tristes
+Fingindo que a gente não existe
+Sentadas, são tão engraçadas
+Donas das suas salas
+
+Pode seguir a tua estrela
+O teu brinquedo de star
+Fantasiando em segredo
+O ponto aonde quer chegar
+
+O teu futuro é duvidoso
+Eu vejo grana, eu vejo dor
+No paraíso perigoso
+Que a palma da tua mão mostrou
+
+Quem tem um sonho não dança
+Bete Balança, por favor
+Me avise quando for embora.
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Por Você</nome>
+                <sample>barao_04_PorVoce.mp3</sample>
+                <autor>
+(Frejat/Mauricio Barros/Mauro Sta Cecília)
+                </autor>
+                <original>Originalmente gravada em 1998 no CD Puro Êxtase</original>
+                <letra>
+Por você eu dançaria tango no teto
+Eu limparia os trilhos do metrô
+Eu iria a pé do Rio à Salvador
+
+Eu aceitaria a vida como ela é
+Viajaria à prazo pro inferno
+Eu tomaria banho gelado no inverno
+
+Por você eu deixaria de beber
+Por você eu ficaria rico num mês
+Eu dormiria de meia pra virar burguês
+
+Eu mudaria até o meu nome
+Eu viveria em greve de fome
+Desejaria todo dia a mesma mulher
+
+Por você, por você
+Por você, por você
+
+Por você conseguiria até ficar alegre
+Pintaria todo o céu de vermelho
+Eu teria mais herdeiros que um coelho
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>O Poeta Está Vivo</nome>
+                <sample>barao_05_OPoetaEstaVivo.mp3</sample>
+                <autor>
+(Frejat / Dulce Quental)
+R.F. Edições, Tapajós
+                </autor>
+                <original>Originalmente gravada em 1990 no CD Na Calada da Noite</original>
+                <letra>
+Baby, compra o jornal
+E vem ver o sol
+Ele continua a brilhar
+Apesar de tanta barbaridade
+
+Baby, escuta o galo cantar
+A aurora dos nossos tempos
+Não é hora de chorar
+Amanheceu o pensamento
+
+O poeta está vivo
+Com seus moinhos de vento
+A impulsionar
+A grande roda da história
+
+Mas quem tem coragem de ouvir
+Amanheceu o pensamento
+Que vai mudar o mundo
+Com seus moinhos de vento
+
+Se você não pode ser forte
+Seja pelo menos humana
+Quando o Papa e seu rebanho chegar
+Não tenha pena
+
+Todo mundo é parecido
+Quando sente dor
+Mas nú e só ao meio-dia
+Só quem está pronto para o amor
+
+O poeta não morreu
+Foi ao inferno e voltou
+Conheceu o Jardim do Édem
+E nos contou
+
+Mas quem tem coragem de ouvir
+Amanheceu o pensamento
+Que vai mudar o mundo
+Com seus moinhos de vento
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Todo Amor Que Houver Nesta Vida</nome>
+                <sample>barao_06_TodoAmorQueHouverNestaVida.mp3</sample>
+                <autor>
+(Frejat / Cazuza)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1981 no CD Barão Vermelho</original>
+                <letra>
+Eu quero a sorte de um amor tranquilo
+Com sabor de fruta mordida
+Nós na batida, no embalo da rede
+Matando a sede na saliva
+
+Ser teu pão, ser tua comida
+Todo o amor que houver nessa vida
+E algum trocado pra dar garantia
+
+E ser artista no nosso convívio
+Pelo inferno e céu de todo dia
+Pra poesia que a gente não vive
+Transformar o tédio em melodia
+Ser teu pão, ser tua comida
+Todo o amor que houver nessa vida
+E algum veneno anti-monotonia
+
+E se eu achar a sua fonte escondida
+Te alcance em cheio o mel e a ferida
+E o corpo inteiro feito um furacão
+Boca, nuca, mão, e a tua mente, não
+Ser teu pão, ser tua comida
+Todo o amor que houver nessa vida
+E algum remédio que me dê alegria
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Amor Meu Grande Amor</nome>
+                <sample>barao_07_AmorMeuGrandeAmor.mp3</sample>
+                <autor>
+(Angela Rôrô/Ana Terra)
+Sony ATV, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1996 no CD Álbum</original>
+                <letra>
+Amor, meu grande amor
+Não chegue na hora marcada
+Assim como as canções
+Como as paixões e as palavras
+
+Me veja nos seus olhos
+Na minha cara lavada
+Me venha sem saber
+Se sou fogo ou se sou água
+
+Amor, meu grande amor
+Me chegue assim bem de repente
+Sem nome ou sobrenome
+Sem sentir o que não sente
+
+Que tudo que ofereço
+É meu calor, meu endereço
+A vida do teu filho
+Desde o fim até o começo
+
+Amor, meu grande amor
+Só dure o tempo que mereça
+E quando me quiser
+Que seja de qualquer maneira
+
+Enquanto me tiver
+Que eu seja o último e o primeiro
+E quando eu te encontrar
+Meu grande amor me reconheça
+
+Que tudo que ofereço
+É meu calor, meu endereço
+A vida do teu filho
+Desde o fim até o começo
+
+Amor, meu grande amor
+Que eu seja o último e o primeiro
+E quando eu te encontrar, meu grande amor
+Por favor, me reconheça
+
+Pois tudo que ofereço
+É meu calor meu endereço
+A vida do teu filho
+Desde o fim até o começo
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Enquanto Ela Não Chegar</nome>
+                <sample>barao_08_EnquantoElaNaoChegar.mp3</sample>
+                <autor>
+(Guto Goffi / Maurício Barros)
+                </autor>
+                <original>Originalmente gravada em 1999 no CD Balada MTV</original>
+                <letra>
+Quantas coisas eu ainda vou provar
+E quantas vezes para a porta eu vou olhar
+Quantos carros nessa rua vão passar
+Enquanto ela não chegar
+
+Quantos dias eu ainda vou esperar
+E quantas estrelas eu vou tentar contar
+Quantas luzes na cidade vão se apagar
+Enquanto ela não chegar
+
+Eu tenho andado tão sozinho
+Que nem sei no que acreditar
+E a paz que busco agora
+Nem a dor vai me negar
+
+Não deixe o sol morrer
+Errar é aprender
+Viver é deixar viver
+Quantas besteiras eu ainda vou pensar
+E quantos sonhos no tempo vão se esfarelar
+Quantas vezes eu vou me criticar
+Enquanto ela não chegar
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Flores do Mal</nome>
+                <sample>barao_09_FloresDoMal.mp3</sample>
+                <autor>
+(Frejat/Guto Goffi)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1992 no CD Supermercados da Vida</original>
+                <letra>
+Não me atire
+Num mar de solidão
+Você tem a faca, o queijo
+E meu coração nas mãos
+Não me retalhe em escândalos
+Nem depois cobre o perdrão
+Deixe que eu cure a ferida 
+Dessa louca paixão
+
+Que acabou feito sonho
+Foi o meu inferno
+Foi o meu descanso
+
+A mesma mão que acaricia
+Fere e sai furtiva
+Faz do amor uma estória triste
+O bem que você me fez
+Nunca foi real
+Da semente mais rica
+Nasceram flores do mal
+
+Não me esqueça por tão pouco
+Nem diga adeus por engano
+Mas é sempre assim
+
+A mesma mão que acaricia
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Meus Bons Amigos</nome>
+                <sample>barao_10_MeusBonsAmigos.mp3</sample>
+                <autor>
+(Guto Goffi/Mauricio Barros/Fernando Magalhães)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1994 no CD Carne Crua</original>
+                <letra>
+Meus bons amigo
+Onde estão
+Notícias de todos
+Quero saber
+
+Cada um fez sua vida
+De forma diferente
+As vezes me pergunto
+Malditos ou inocentes
+
+Os nossos sonhos
+Realidades
+Todas as vertigens 
+Crueldades
+
+Sobre os nossos ombros
+Aprendemos a carregar
+Toda vontade
+Que faz vingar
+
+No bem que fez
+Pra mim, assim
+Assim, me fez
+Feliz assim
+
+O amor sem fim
+Não esconde o medo
+De ser completo 
+E imperfeito
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Puro Êxtase</nome>
+                <sample>barao_11_PuroExtase.mp3</sample>
+                <autor>
+(Guto Goffi/ Mauricio Barros)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1998 no CD Puro Êxtase</original>
+                <letra>
+Toda brincadeira não devia ter hora para acabar 
+Toda quarta-feira ela sai sem pressa pra voltar 
+Esmalte vermelho 
+Tinta no cabelo 
+Os pés num salto alto 
+Cheios de desejo 
+Vontade de dançar até o amanhecer 
+Ela está suada pronta pra se derreter! 
+
+Ela é puro êxtase 
+Êcstasy 
+Barbie 
+Betty Boops 
+Puro êxtase 
+
+Galo cantou, se encantou deixa cantar 
+Se o galo cantou é que tá na hora de chegar 
+De tão alucinada 
+Já tá rindo à toa 
+Quando olha para os lados 
+À todos atordoa 
+A sua roupa montada parece divertir 
+Os olhos gulosos de quem quer lhe despir
+                </letra>
+            </faixa>
+            <faixa>
+                <nome>Tão Longe de Tudo</nome>
+                <sample>barao_12_TaoLongeDeTudo.mp3</sample>
+                <autor>
+(Guto Goffi)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1990 no CD Na Calada da Noite</original>
+                <letra>
+Solidão amigo do peito 
+Me dê tudo que eu tenha por direito 
+Me diga, me ensina 
+Ao dormir não sinto medo 
+Hé um sol, existe vida 
+Me trate com jeito 
+Eu tenho saída 
+
+Eu quero calor e o mundo é frio 
+Minha vaidade não enxerga o paraíso 
+Eu preciso de alguém  
+Pra fugir sem avisar ninguém 
+
+Não vou olhar pra trás 
+A saudade está morta 
+E já não me importo 
+De estar longe demais 
+
+Longe demais de tudo 
+Eu tô longe demais 
+Longe demais de tudo 
+Eu tô longe demais 
+Tão perto de mim 
+E tão longe de tudo
+                </letra>
+            </faixa>
+        </musicas>
+	</cd>
+	<cd>
+		<id>biquini</id>
+		<titulo>BIQUINI CAVADÃO</titulo>
+		<cor>
+			<bg>be1e2d</bg>
+			<fg>307abd</fg>
+			<icon>f79633</icon>
+			<out>be1e2d</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Tédio</nome>
+                <sample>biquini_01_Tedio.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1986 no LP Cidades em Torrente</original>
+                <letra>
+Sabe esses dias
+Em que horas dizem nada
+E você nem troca o pijama
+Preferia estar na cama
+Um dia, a monotonia
+Tomou conta de mim
+É o tédio
+Cortando os meus programas
+Esperando o meu fim
+
+Sentado no meu quarto
+O tempo voa
+Lá fora a vida passa
+E eu aqui à toa
+Eu já tentei de tudo
+Mas não tenho remédio
+Prá livrar-me desse tédio
+
+Vejo um programa
+Que não me satisfaz
+Leio o jornal que é de ontem
+Pois prá mim, tanto faz
+Já tive esse problema
+Sei que o tédio
+É sempre assim
+Se tudo piorar
+Não sei do que sou capaz
+
+Tédio!
+Não tenho um programa
+Tédio!
+Esse é o meu drama
+O que corrói é o tédio
+Um dia eu fico cego
+Me atiro deste prédio    
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Janaína</nome>
+                <sample>biquini_02_Janaina.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1998 no Cd biquini.com.br</original>
+                <letra>
+Janaína acorda todo dia às quatro e meia
+E já na hora de ir pra cama, Janaína pensa
+Que o dia não passou
+Que nada aconteceu
+
+Janaína é passageira
+Passa as horas do seu dia em trens lotados
+Filas de supermercados, bancos e repartições
+Que repartem sua vida
+
+Mas ela diz
+Que apesar de tudo ela tem sonhos
+Mas ela diz
+Que um dia a gente há de ser feliz
+Ela diz
+Que apesar de tudo ela tem sonhos
+Ela diz
+Que um dia a gente há de ser feliz
+Se Deus quiser ...
+
+Janaína é beleza de gestos, abraços
+Mãos, dedos, anéis e lábios
+Dentes e sorriso solto
+Que escapam do seu rosto
+Janaína é só lembrança de amores guardados
+Hoje é apenas mais uma pessoa
+Que tem medo do futuro
+- que aconteceu? -
+Se alimenta do passado
+
+Mas ela diz
+Que apesar de tudo ela tem sonhos
+Mas ela diz
+Que um dia a gente há de ser feliz
+Se Deus quiser ...
+Diz
+Que apesar de tudo ela tem sonhos
+Mas ela diz
+Que um dia a gente há de ser feliz
+Se Deus quiser ...
+
+Já não imagina
+Quantos anos tem
+Já na iminência
+De outro aniversário
+Janaína acorda todo dia às quatro e meia
+Já na hora de ir pra cama, Janaína pensa
+Que o dia não passou
+Que nada aconteceu
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Impossível</nome>
+                <sample>biquini_03_Impossivel.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Descivilização</original>
+                <letra>
+Tudo bem quando termina bem
+(E os seus olhos) E os seus olhos não estão rasos d'água
+Mas eu sei que no coração ficaram muitas palavras
+Um vocabulário inteiro de ilusão
+
+Tudo que viceja também pode agonizar
+E perder seu brilho em poucas semanas
+E não podemos evitar que a vida trabalhe com o seu relógio invisível
+Tirando o tempo de tudo que é perecível
+
+Oooh...
+É impossível
+É impossível esquecer você
+É impossível esquecer o que vivi
+É impossível esquecer o que senti
+
+Tudo que morre fica vivo na lembrança
+Como é difícil viver carregando um cemitério na cabeça
+Mas antes que eu me esqueça
+Antes que tudo se acabe
+Eu preciso, eu preciso dizer a verdade
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Roda-Gigante</nome>
+                <sample>biquini_04_RodaGigante.mp3</sample>
+                <autor>
+(Biquini Cavadão, Dudy Cardoso)
+RioTVA (Deck), Jingle Bells(Deck)
+                </autor>
+                <original>Originalmente gravada em 2013 no CD Roda-Gigante</original>
+                <letra>
+Quero aprender a amar
+Para fazer as pazes
+Até a noite chegar
+
+Quero aprender a amar
+Em todos os detalhes
+Para te decifrar
+
+Quero aprender a amar
+Pra cometer pecados
+E depois me perdoar
+
+Quero aprender a amar
+Em todas as palavras
+Para te sussurrar
+
+Só quero o amor das grandes paixões
+Ser como crianças no parque de diversões
+Aquele amor que em menos de um instante
+Faz a vida girar numa roda gigante
+
+Quero aprender a amar
+Para fazer as pazes
+Até a noite chegar
+
+Quero aprender a amar
+Em todas as palavras
+Para te sussurrar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Timidez</nome>
+                <sample>biquini_05_Timidez.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1986 no LP Cidades em Torrente</original>
+                <letra>
+Toda vez que te olho
+Crio um romance
+Te persigo, mudo
+todos instantes
+Falo pouco pois não
+sou de dar indiretas
+Me arrependo do que digo
+em frases incertas
+Se eu tento ser direto, o medo me ataca
+sem poder nada fazer
+Sei que tento me vencer e acabar com a mudez
+Quando eu chego perto, tudo esqueço
+e não tenho vez
+Me consolo, foi errado o momento, talvez
+Mas na verdade, nada esconde essa minha timidez
+
+Eu carrego comigo a grande agonia
+De pensar em você, toda hora do dia
+Eu carrego comigo, a grande agonia
+Na verdade nada esconde essa minha timidez
+Na verdade nada esconde essa minha timidez
+
+Talvez escreva um poema
+No qual grite o seu nome
+Nem sei se vale a pena
+Talvez só telefone
+Eu me ensaio, mas nada sai
+O seu rosto me distrai
+E, como um raio,
+eu encubro, eu disfarço
+eu camuflo, eu desfaço
+Eu respiro bem fundo
+Hoje digo pro mundo
+Mudei rosto e imagem
+Mas você me sorriu
+Lá se foi minha coragem
+Você me inibiu
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Quando Eu Te Encontrar</nome>
+                <sample>biquini_06_QuandoEuTeEncontrar.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho, Beni)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 2000 no Cd Escuta Aqui</original>
+                <letra>
+Eu já sei o que os meus olhos vão querer
+quando eu te encontrar,
+impedidos de te ver,
+vão querer chorar...
+Como um riso encontido perdido em algum lugar,
+felicidade que transborda
+parece não querer parar,
+não quer parar, não vai parar.aaaahhhhhhhhhh
+
+Eu ja sei o que os meus labios vão querer
+quando eu te encontrar,
+molhados de prazer,
+vão querer beijar,
+e o que na vida não se cansa
+de se apresentar,
+por ser lugar comum,
+deixamos de extravasar...
+de demonstrar... aaahhhh
+
+Nunca me disseram
+o que devo fazer,
+quando a saudade acorda,
+a beleza que faz sofrer,
+nunca me disseram,
+como devo proceder,
+chorar, beijar, te abraçar,
+É isso que quero fazer...
+
+É isso que quero dizer...
+
+Eu ja sei o que os meus braços vão querer
+quando eu te encontrar,
+na forma de um "C",
+vão te abraçar,
+um abraço apertado,
+para vocÊ não escapar,
+se você foge me faz crer
+que o mundo pode acabar...
+Vai acabar...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Entre Beijos e Mais Beijos</nome>
+                <sample>biquini_07_EntreBeijosEMaisBeijos.mp3</sample>
+                <autor>
+(Biquini Cavadão, Dudy Cardoso)
+RioTVA (Deck), Jingle Bells(Deck)
+                </autor>
+                <original>Originalmente gravada em 2013 no CD Roda-Gigante</original>
+                <letra>
+Sol
+Lá vem o sol
+Quando acorda apaga as luzes da cidade
+Desenhando sombras pelo chão
+Pelo chão
+
+Céu
+E lá no céu
+Quando nuvens se abraçam lentamente
+Desenhando sombras sobre o mar
+Sobre o mar
+
+Te vejo abrir a porta
+Tanta história pra contar
+E entre beijos e mais beijos
+Te conto um segredo
+O medo que eu tive
+De nunca mais te ver voltar
+
+Sol
+Lá vai o sol
+Quando se esconde leva as cores da cidade
+Acendendo luzes de neon
+Luzes de neon
+
+Céu,
+Longe no céu
+Quando uma estrela se apaga de repente
+Cala o meu coração
+Meu coração
+
+Te vejo abrir a porta
+Tanta história pra contar
+E entre beijos e mais beijos
+Te conto um segredo
+O medo que eu tive
+De nunca mais te ver voltar
+
+Te vejo abrir a porta
+Um sorriso no olhar
+E entre beijos e mais beijos
+E mais beijos e mais beijos
+Quando você voltar
+
+Quando você voltar
+Com um sorriso no olhar
+Pra sempre eu vou te amar
+Quando você voltar
+Quando você vai voltar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vento Ventania</nome>
+                <sample>biquini_08_VentoVentania.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho, Beni)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Descivilização</original>
+                <letra>
+Vento, ventania
+Me leve para
+As bordas do céu
+Pois vou puxar
+As barbas de Deus
+Vento, ventania
+Me leve prá onde
+Nasce a chuva
+Prá lá de onde
+O vento faz a curva...
+
+Me deixe cavalgar
+Nos seus desatinos
+Nas revoadas
+Redemoinhos...
+
+Vento, ventania
+Me leve sem destino
+Quero juntar-me a você
+E carregar
+Os balões pro mar
+Quero enrolar
+As pipas nos fios
+Mandar meus beijos
+Pelo ar...
+
+Vento, ventania
+Me leve prá qualquer lugar
+Me leve para
+Qualquer canto do mundo
+Ásia, europa, américa...
+
+Lê, Lê, Lê, Lê, Lê, Lê, Lê...
+
+Vento, ventania
+Me leve para
+As bordas do céu
+Pois vou puxar
+As barbas de Deus...
+Vento, ventania
+Me leve para
+Os quatro cantos do mundo
+Me leve prá qualquer lugar
+
+Hum! Me deixe cavalgar
+Nos seus desatinos
+Nas revoadas
+Redemoinhos...
+
+Vento, ventania
+Me leve sem destino
+Quero mover
+As pás dos moinhos
+E abrandar o calor do sol
+Quero emaranhar
+O cabelo da menina
+Mandar meus beijos pelo ar...
+
+Vento, ventania
+Me leve prá qualquer lugar
+Me leve para
+Qualquer canto do mundo
+Ásia, europa, américa...
+
+Lê, Lê, Lê, Lê, Lê, Lê, Lê...
+
+Me deixe cavalgar
+Nos seus desatinos
+Nas revoadas
+Redemoinhos
+Vento, ventania
+Me leve sem destino
+Quero juntar-me a você
+E carregar os balões pro mar
+Quero enrolar as pipas nos fios
+Mandar meus beijos pelo ar
+Vento, ventania
+Agora que estou solto na vida
+Me leve prá qualquer lugar
+Me leve mas não me faça voltar...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Quanto Tempo Demora Um Mês</nome>
+                <sample>biquini_09_QuantoTempoDemoraUmMes.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho, Fabra)
+RioTVA(Deck), Jingle Bells(Deck), Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 2005 no CD Ao Vivo</original>
+                <letra>
+Acordei com o seu gosto
+E a lembrança do seu rosto
+Porque você se fez tão linda?
+
+Mas agora você vai embora
+Quanto tempo será que demora
+Um mês pra passar?
+
+A vida inteira de um inseto,
+Um embrião pra virar feto,
+A folha do calendário,
+O trabalho pra ganhar o salário.
+
+Mas daqui a um mês
+Quando você voltar
+A lua vai tá cheia
+E no mesmo lugar...
+
+Se eu pudesse escolher
+Outra forma de ser
+Eu seria você.
+
+E a saudade em mim agora
+Quanto tempo será que demora
+Um mês pra passar?
+
+Ser campeão da copa do mundo
+Um dia em Saturno
+Pra criança que não sabe contar
+vai levar um tempão.
+
+Daqui a um mês
+Quando você voltar
+A lua vai tá cheia
+E no mesmo lugar.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Dani</nome>
+                <sample>biquini_10_Dani.mp3</sample>
+                <autor>
+(Biquini Cavadão, Manno Góes)
+RioTVA (Deck), Jingle Bells(Deck), Tapajós (EMI), Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 2005 no CD Ao Vivo</original>
+                <letra>
+Dane-se a hora, se é cedo se é tarde
+Dane-se a capa, a foto, o encarte
+Dane-se o mundo, o raso, o profundo
+Dane-se nada,
+Dane-se tudo,
+Quando você está aqui
+Dane-se o mundo
+Quando você sorri
+
+Dane-se o filme, a história, o ator
+Dane-se Caprio, De Niro e Monroe
+Dane-se Figo, Ronaldo, Zidanne
+Dane-se tudo que não tiver Dani
+
+Só penso nela,
+Quem é ela,
+O nome dela é Daniela
+
+Dane-se o clipe, a banda, o cantor
+Dane-se o tédio, o vento, o calor,
+Dane-se o tempo, passado, futuro
+Dane-se nada,
+Dane-se tudo,
+Quando você está aqui
+Dane-se o mundo
+Quando você sorri
+
+Dane-se o emprego, o salário, o patrão
+Dane-se o medo, a loucura, a razão
+Dane-se a moda, se é brega ou 'Armani'
+Dane-se tudo que não tiver Dani
+
+Só penso nela,
+Quem é ela,
+O nome dela é Daniela
+
+Dane-se a hora, cedo ou tarde
+Dane-se a capa, a foto, o encarte
+Dane-se o mundo, o raso, o profundo
+Dane-se nada,
+Dane-se tudo,
+Quando você está aqui
+Dane-se o mundo
+Quando você sorri
+
+Dane-se o filme, a história, o ator
+Dane-se Caprio, De Niro e Monroe
+Dane-se o verso, e a rima também
+Dane-se tudo que não tiver Dani
+
+Só penso nela,
+Quem é ela,
+O nome dela é Daniela
+Só penso nela,
+Quem é ela,
+O nome dela é Daniela
+Só penso nela,
+Quem é ela,
+O nome dela: é Daniela
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vou Te Levar Comigo</nome>
+                <sample>biquini_11_VouTeLevarComigo.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho, Fabra)
+RioTVA (Deck), Jingle Bells(Deck), Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 2005 no CD Ao Vivo</original>
+                <letra>
+As curvas no caminho, meus olhos tão distantes,
+Eu quero te mostrar os lugares que encontrei
+Como o céu pode mudar de cor quando encontra o mar...
+... quando encontra o mar!
+
+Um sonho no horizonte, uma estrela na manhã
+De repente a vida pode ser uma viagem...
+E o mundo todo vai caber nesta canção
+... nesta canção!
+
+Vou te pegar na sua casa, deixa tudo arrumado
+Vou te levar comigo pra longe
+Tanta coisa nos espera, me espera na janela
+Vou te levar comigo!
+
+Eu quero te contar as histórias que ouvi
+E nas diferenças vou te encontrar
+O amor vai sempre ser amor em qualquer lugar...
+... em qualquer lugar!
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Zé Ninguém</nome>
+                <sample>biquini_12_ZeNinguem.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Descivilização</original>
+                <letra>
+Quem foi que disse que amar é sofrer?
+Quem foi que disse que Deus é brasileiro,
+Que existe ordem e progresso,
+Enquanto a zona corre solta no congresso?
+Quem foi que disse que a justiça tarda mas não falha?
+Que se eu não for um bom menino, Deus vai castigar!
+
+Os dias passam lentos
+Aos meses seguem os aumentos
+
+Cada dia eu levo um tiro
+Que sai pela culatra
+Eu não sou ministro, eu não sou magnata
+Eu sou do povo, eu sou um Zé Ninguém
+Aqui embaixo, as leis são diferentes
+Eu sou do povo, eu sou um Zé Ninguém
+Aqui embaixo, as leis são diferentes
+
+Quem foi que disse que os homens nascem iguais?
+Quem foi que disse que dinheiro não traz felicidade?
+Se tudo aqui acaba em samba,
+No país da corda bamba, querem me derrubar!
+Quem foi que disse que os homens não podem chorar?
+Quem foi que disse que a vida começa aos quarenta?
+A minha acabou faz tempo, agora entendo por que ...
+
+Cada dia eu levo um tiro
+Que sai pela culatra
+Eu não sou ministro, eu não sou magnata
+Eu sou do povo, eu sou um Zé Ninguém
+Aqui embaixo, as leis são diferentes
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>engenheiros</id>
+		<titulo>ENGENHEIROS DO HAWAII</titulo>
+		<cor>
+			<bg>878a77</bg>
+			<fg>45b653</fg>
+			<icon>565534</icon>
+			<out>f7ae46</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>	
+			<faixa>
+				<nome>Pra Ser Sincero</nome>
+                <sample>engenheiros_01_PraSerSincero.mp3</sample>
+                <autor>
+(Humberto Gessinger - Augusto Licks)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1990 no CD O Papa é Pop</original>
+                <letra>
+Pra ser sincero eu não espero de você mais do que educação,
+Beijos sem paixão, crimes sem castigo,
+Aperto de mãos apenas bons amigos...
+
+Pra ser sincero eu não espero que você minta
+Não se sinta capaz de enganar
+Quem não engana a si mesmo
+
+Nós dois temos os mesmos defeitos
+Sabemos tudo a nosso respeito
+Somos suspeitos de um crime perfeito,
+Mas crimes perfeitos não deixam suspeitos
+
+Pra ser sincero eu não espero de você mais do que educação,
+Beijos sem paixão, crimes sem castigo,
+Aperto de mãos, apenas bons amigos...
+
+Pra ser sincero não espero que você me perdoe
+Por ter perdido a calma
+Por ter vendido a alma ao diabo
+
+Um dia desses, num desses encontros casuais
+Talvez a gente se encontre,
+Talvez a gente encontre explicação
+
+Um dia desses num desses encontros casuais
+Talvez eu diga, minha amiga,
+Pra ser sincero... prazer em vê-la
+Até mais...(até mais)
+
+Nós dois temos os mesmos defeitos
+Sabemos tudo a nosso respeito
+Somos suspeitos de um crime perfeito,
+Mas crimes perfeitos não deixam suspeitos
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Somos Quem Podemos Ser</nome>
+                <sample>engenheiros_02_SomosQuemPodemosSer.mp3</sample>
+                <autor>
+(Gessinger)
+Warner Chappell
+                </autor>
+                <original>Gravada originalmente em 1987 no CD Ouça o Que Eu Digo, Não Ouça Ninguém</original>
+                <letra>
+Um dia me disseram
+Que as nuvens não eram de algodão
+Um dia me disseram
+Que os ventos às vezes erram a direção
+
+E tudo ficou tão claro
+Um intervalo na escuridão
+(Uma estrela de brilho raro
+Um disparo para um coração)
+
+A vida imita o vídeo
+Garotos inventam um novo inglês
+Vivendo num país sedento
+Um momento de embriaguez
+
+"Somos quem podemos ser
+Sonhos que podemos ter"
+
+Um dia me disseram
+Quem eram os donos da situação
+Sem querer eles me deram
+As chaves que abrem esta prisão
+
+E tudo ficou tão claro
+O que era raro ficou comum
+(Como um dia depois do outro
+Como um dia, um dia comum)
+
+A vida imita o vídeo
+Garotos inventam um novo inglês
+Vivendo num país sedento
+Um momento de embriaguez
+
+"Somos quem podemos ser
+Sonhos que podemos ter"
+
+Um dia me disseram
+Que as nuvens não eram de algodão
+Sem querer eles me deram
+As chaves que abrem esta prisão
+
+"Quem ocupa o trono tem culpa
+Quem oculta o crime também
+Quem duvida da vida tem culpa
+Quem evita a dúvida também tem"
+
+"Somos quem podemos ser
+Sonhos que podemos ter"
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Parabólica</nome>
+                <sample>engenheiros_03_Parabolica.mp3</sample>
+                <autor>
+(Humberto Gessinger - Augusto Licks)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1992 no CD Gessinger, Licks e Maltz</original>
+                <letra>
+Ela para e fica ali parada
+Olha assim para nada, diz Paraná
+Fica parecida, Paraguaia
+Para-raios em dia de sol para mim
+Prenda minha parabólica, princesinha parabólica
+O pecado mora ao lado e o paraíso,
+Ele paira no ar
+Pecados no paraíso
+
+Se a TV estiver fora do ar
+Quando passarem os melhores momentos da sua vida
+Pela janela alguem estará de olho em você, completamente paranóico
+Prenda minha parabólica, princesinha parabólica
+Paralelas que se cruzam em Belém do Pará
+Longe, longe, longe, aqui do lado
+Paradoxo nada nos separa
+Eu paro e fico aqui parado
+Olho assim para longe
+A distância não separabólica
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pose (Anos 90)</nome>
+                <sample>engenheiros_04_Pose.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1992 no CD Gessinger, Licks e Maltz</original>
+                <letra>
+Vamos passear depois do tiroteio
+Vamos dançar num cemitério de automóveis
+Colher as flores que nascerem no asfalto
+Vamos todo mundo... tudo que se possa imaginar
+
+Vamos duvidar de tudo que é certo
+Vamos namorar à luz do pólo petroquímico
+Voltar pra casa num navio fantasma
+Vamos todo mundo... ninguém pode faltar
+
+Se faltar calor, a gente esquenta
+Se ficar pequeno, a gente aumenta
+Se não for possível, a gente tenta
+Vamos ficar acima, velejar no mar de lama
+Se faltar o vento, a gente inventa
+Vamos esquecer o dia da semana
+Tem que ser agora anos 90.
+
+Vamos remar contra a corrente
+Desafinar do coro dos contentes
+
+Se não for possível
+Se não for importante
+Mesmo assim a gente tenta.
+
+Não é pose, não é positivismo
+Quanto pior, pior
+Não é pose, não passará
+Não passaremos por isso
+
+Tô fora voodoo, ranso, baixo astral
+Eu não vou perder meu tempo brincando de ser mal
+Não vou viver pra sempre nem morrer a toda hora
+Como rasgos pré-fabricados num novo velho blue jeans.
+
+Morte anunciada, direitos autorais
+Pela tv à cabo uma baleia acaba de nascer
+Nascer pode ser uma passagem violenta
+O futuro se põe
+O passado não se agüenta.
+Oooo... oooo.
+
+Meninos e engenhos
+Santa ingenuidade
+Santíssima trindade: sexo, drogas, rock'n roll.
+Oooo.ooo...
+
+É pura pose, faz qualquer coisa
+E o pior não é isso
+É pura pose, posteridade
+E o pior não é isso
+
+Vamos passear depois do tiroteio
+Vamos dançar num cemitério de automóveis
+Vamos duvidar de tudo que é certo
+Vamos namorar à luz do pólo petroquímico.
+
+Lalarala...
+Lalarala.
+Laralala...
+Laralala...
+Laralala.
+
+Vamos remar contra a corrente
+Desafinar do coro dos contentes
+Vamos ficar acima, velejar no mar de lama
+Vamos esquecer o dia-a-dia, o dia-a-dia.aaa
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Infinita Highway</nome>
+                <sample>engenheiros_05_InfinitaHighway.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1987 no CD A Revolta dos Dândis</original>
+                <letra>
+Você me faz correr demais os riscos dessa Highway
+Você me faz correr atrás do horizonte dessa Highway
+Ninguém por perto, silêncio no deserto,
+Deserta Highway
+
+Estamos sós e nenhum de nós
+Sabe exatamente onde vai parar
+Mas não precisamos saber pra onde vamos
+Nós só precisamos ir.
+
+Não queremos ter o que não temos...
+Nós só queremos viver
+Sem motivos, nem objetivos,
+Estamos vivos e isso é tudo.
+
+É sobretudo a lei da Infinita Highway.
+
+Quando eu vivia e morria na cidade
+Eu não tinha nada, nada a temer
+Mas eu tinha medo, medo dessa estrada.
+Olhe só, vê você.
+
+Quando eu vivia e morria na cidade
+Eu tinha de tudo, tudo ao meu redor.
+Mas tudo que eu sentia era que algo me faltava
+E à noite eu acordava banhado em suor
+
+Não queremos lembrar o que esquecemos
+Nós só queremos viver
+Não queremos aprender o que sabemos
+Não queremos nem saber
+
+Sem motivos, nem objetivos.
+Estamos vivos e é só
+
+Só obedecemos à lei da Infinita Highway
+
+Escute, garota, o vento canta uma canção.
+Dessas que a gente nunca canta sem razão
+Me diga, garota, será a estrada uma prisão?
+Eu acho que sim, você finge que não.
+
+Mas nem por isso ficaremos parados
+Com a cabeça nas nuvens e os pés no chão
+Tudo bem, garota, não adianta mesmo ser livre.
+Se tanta gente vive sem ter como viver
+
+Estamos sós e nenhum de nós
+sabe onde quer chegar
+Estamos vivos, sem motivos.
+Que motivos temos pra estar?
+
+Atrás de palavras escondidas
+nas entrelinhas do horizonte dessa Highway
+
+Silenciosa Highway
+
+Eu vejo o horizonte trêmulo,
+Eu tenho os olhos úmidos.
+Eu posso estar completamente enganado
+Eu posso estar correndo pro lado errado
+
+Mas a dúvida é o preço da pureza
+E é inútil ter certeza
+
+Eu vejo as placas dizendo não corra,
+não morra, não fume.
+Eu vejo as placas cortando o horizonte
+Elas parecem facas de dois gumes
+
+A minha vida é tão confusa quanto a América Central
+Por isso não me acuse de ser irracional
+Escute, garota, façamos um trato.
+Você desliga o telefone se eu ficar muito abstrato
+
+Eu posso ser um Beatle, um beatnik ou um bitolado.
+Mas eu não sou ator, eu não to à toa do teu lado.
+Por isso garota, façamos um pacto
+De não usar a Highway pra causar impacto.
+
+Cento e dez, cento e vinte, cento e sessenta
+Só pra ver até quando o motor agüenta.
+Na boca em vez de um beijo um chicle de menta
+E a sombra do sorriso que eu deixei
+Numa das curvas da Highway
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Muros e Grades</nome>
+                <sample>engenheiros_06_MurosEGrades.mp3</sample>
+                <autor>
+(Humberto Gessinger - Augusto Licks)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Várias Variáveis</original>
+                <letra>
+Nas grandes cidades. no pequeno dia-a-dia
+O medo nos leva tudo, sobretudo a fantasia
+Então erguemos muros que nos dão a garantia
+De que morreremos cheios de uma vida tão vazia
+Nas grandes cidades, de um país tão violento
+Os muros e as grades nos protegem de quase tudo
+Mas o quase tudo quase sempre é quase nada
+E nada nos protege de uma vida sem sentido
+
+Um dia super
+Uma noite super
+Uma vida superficial
+Entre as sombras
+Entre as sobras
+da nossa escassez
+Um dia super
+Uma noite super
+Uma vida superficial
+Entre cobras
+Entre escombros
+Da nossa solidez
+
+Nas grandes cidades, de um país tão irreal
+Os muros e as grades nos protegem de nosso próprio mal
+Levamos uma vida que não nos leva a nada
+Levamos muito tempo pra descobrir
+Que não é por aí. não é por nada não
+Não, não pode ser. é claro que não é
+? SERÁ?
+Meninos de rua, delírios de ruína
+Violência nua e crua, verdade clandestina
+Delírios de ruína, delitos &amp; delícias
+A violência travestida faz seu trottoir
+Em armas de brinquedo, medo de brincar
+Em anúncios luminosos, lâminas de barbear
+
+Viver assim é um absurdo (como outro qualquer)
+Como tentar o suicídio (ou amar uma mulher)
+Viver assim é um absurdo (como outro quaquer)
+Como lutar pelo puder (lutar como puder)
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Terra de Gigantes</nome>
+                <sample>engenheiros_07_TerraDeGigantes.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1987 no CD A Revolta dos Dândis</original>
+                <letra>
+Hey mãe!
+Eu tenho uma guitarra elétrica
+Durante muito tempo isso foi tudo
+Que eu queria ter
+
+Mas, hey mãe!
+Alguma coisa ficou pra trás
+Antigamente eu sabia exatamente o que fazer
+
+Hey mãe!
+Tem uns amigos tocando comigo
+Eles são legais, além do mais,
+Não querem nem saber
+Pois agora, lá fora
+O mundo todo é uma ilha
+A milhas e milhas e milhas
+de qualquer lugar
+
+Nessa terra de gigantes
+Vocês ja ouviram tudo isso antes
+A juventude é uma banda
+Numa propaganda de refrigerantes
+
+As revistas, as revoltas, as conquistas
+Da juventude são heranças
+São motivos pras mudanças de atitude
+Os discos, as danças, os riscos
+Da juventude
+A cara limpa, a roupa suja
+Esperando que o tempo mude
+
+Nessa terra de gigantes
+Tudo isso já foi dito antes
+A juventude é uma banda
+Numa propaganda de refrigerantes
+
+Hey mãe!
+Eu já não esquento a cabeça
+Durante muito tempo
+Isso era só o que eu podia fazer
+Mas, hey hey mãe!
+Por mais que a gente cresça
+Há sempre alguma coisa que a gente
+não pode entender
+Por isso, mãe
+Só me acorda quando o sol tiver se posto
+Eu não quero ver meu rosto
+Antes de anoitecer
+Pois agora lá fora,
+Todo mundo é uma ilha
+A milhas e milhas e milhas...
+
+Nessa terra de gigantes
+Que trocam vidas por diamantes
+A juventude é uma banda
+Numa propaganda de refrigerantes
+
+E nessa terra de gigantes
+Eu sei já ouvimos, tudo isso antes
+A juventude é uma banda
+Numa propaganda de refrigerante
+
+Hey mãe... Hey mãe
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Piano Bar</nome>
+                <sample>engenheiros_08_PianoBar.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Várias Variáveis</original>
+                <letra>
+O que você me pede eu não posso fazer
+Assim você me perde, eu perco você
+Como um barco perde o rumo
+Como uma árvore no outono perde a cor
+
+O que você não pode eu não vou te pedir
+O que você não quer... eu não quero insistir
+Diga a verdade, doa a quem doer
+Doe sangue e me dê seu telefone
+
+Todos os dias eu venho ao mesmo lugar
+Às vezes fica longe, impossível de encontrar
+Mas, quando o neon é bom
+Toda noite é noite de luar
+
+No táxi que me trouxe até aqui
+O Irinelson ma dava razão
+As últimas do esporte, hora certa
+Crime e religião
+Na verdade
+Nada é uma palavra esperando tradução
+
+Toda vez que falta luz
+Toda vez que algo nos falta
+O invisível nos salta aos olhos
+Um salto no escuro da piscina
+
+O fogo ilumina muito
+Por muito pouco tempo
+Em muito pouco tempo o fogo apaga tudo
+Tudo um dia vira luz
+Toda vez que falta luz
+O invisível nos salta aos olhos
+
+Ontem à noite eu conheci uma guria
+Já era tarde, era quase dia
+Era o princípio
+Num precipício era o meu corpo que caia
+
+Ontem à noite, a noite tava fria
+Tudo queimava, nada aquecia
+Ela apareceu, parecia tão sozinha
+Parecia que era minha aquela solidão
+
+Ontem à noite eu conheci uma guria
+Que eu já conhecia de outros carnavais
+Com outras fantasias
+Ela apareceu, parecia tão sozinha
+Parecia que era minha aquela solidão
+
+No início era um precipício
+(um corpo que caía)
+Depois virou um vício
+Foi tão difícil acordar no outro dia
+Ela apareceu, parecia tão sozinha
+Parecia que era minha aquela solidão
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Sopa de Letrinhas</nome>
+                <sample>engenheiros_09_SopaDeLetrinha.mp3</sample>
+                <autor>
+(Humberto Gessinger - Marcelo Fagundes)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Longe Demais das Capitais</original>
+                <letra>
+Nosso amor é nazifascista
+Você se esconde, eu sigo a tua pista
+Eu fico sozinho, mas não fico em paz
+Eu volto pra casa, você volta atrás
+
+Nosso amor é medieval
+É como uma pedra em vidro de catedral
+Ontem á noite, eu tive um sonho exótico
+Nós dois por aí, transando sexo gótico
+
+Eu fico sozinho, teu bejo me arranha
+Um estranho no ninho, ninguém estranha
+
+Nosso amor é uma abobrinha
+Eu escrevo teu nome numa sopa de letrinhas
+Eu fico sonhando em ser astronauta
+Eu olho pra lua e sinto a tua falta
+
+Nosso amor é pós-moderno
+Eu quero que você se aqueça nesse inverno
+Tenho andado aéreo como tropas minhas no ataque
+Fim de noite, fim de mundo lá no fundo do conhaque
+
+
+Eu fico sozinho, teu bejo me arranha
+Um estranho no ninho, ninguém estranha
+Nosso amor é nazifascista
+Eu tento Fugir, você me conquista
+Eu fico sozinho, mas não fico em paz
+Eu volto pra casa, você volta atrás
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Segurança</nome>
+                <sample>engenheiros_10_Seguranca.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Longe Demais das Capitais</original>
+                <letra>
+Você precisa de alguém que te dê segurança
+Senão você dança, senão você dança
+Ele era o tal, cheio de moral, "bon vivant"
+Parecia um galã, usando óculos "Ray ban"
+(Don Juan)
+Corria em Tarumã, combateu no vietnã
+(RA TA TA TA)
+Vestia "Yves Saint-Laurent"
+(Pierre Cardin)
+Você precisa de alguém que te dê segurança
+Senão você dança, senão você dança
+Ele era o tal, cheio de moral, fascinava você
+Tinha um Puma-GT com vidro fumê
+Tinhasauna no ap, só pra você (pode crer)
+Lutava Karatê como nos filmes de TV
+Você precisa de alguém que te dê segurança
+Senão você dança, senão você dança
+O que mais me impressiona é que tudo nasceu
+Numa carona que ele te deu
+O que mais me emociona é que tudo se deu
+Num banco traseiro de um Alfa Romeo
+Você precisa de alguém que te dê segurança
+Senão você dança, senão você se cansa e dança
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Até o Fim</nome>
+                <sample>engenheiros_11_AteOFim.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 2003 no CD Dançando No Campo Minado</original>
+                <letra>
+Não vim até aqui pra desistir agora
+Entendo você, se você quiser ir embora
+Não vai ser a primeira vez nas últimas 24 horas
+
+Mas eu não vim até aqui pra desistir agora
+Minhas raízes estão no ar
+Minha casa é qualquer lugar
+Se depender de mim eu vou até o fim
+
+Voando sem instrumentos
+Ao sabor do vento
+Se depender de mim eu vou até o fim
+Até o fim
+
+Não vim até aqui pra desistir agora
+Entendo você, se você quiser ir embora
+Não vai ser a primeira vez em menos de 24 horas
+
+A ilha não se curva noite a dentro, a vida a fora
+Toda vida, o dia inteiro
+Não seria exagero
+Se depender de mim eu vou até o fim
+
+Cada célula, todo fio de cabelo
+Falando assim parece um exagero
+Mas se depender de mim eu vou até o fim
+Até o fim
+
+Não vim até aqui pra desistir agora
+Não vim até aqui pra desistir agora
+Eu não vim até aqui pra desistir...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>3x4</nome>
+                <sample>engenheiros_12_3x4.mp3</sample>
+                <autor>
+(Humberto Gessinger)
+Universal Music Publishing
+                </autor>
+                <original>Originalmente gravada em 1999 no Cd ¡Tchau Radar!</original>
+                <letra>
+Diga a verdade ao menos uma vez na vida
+Você se apaixonou pelos meus erros
+Não fique pela metade
+Vá em frente, minha amiga
+Destrua a razão desse beco sem saída
+
+Diga a verdade
+Ponha o dedo na ferida
+Você se apaixonou pelos meus erros
+Eu perdi as chaves
+Mas que cabeça a minha!
+Agora vai ter que ser para toda a vida
+Somos o que há de melhor
+Somos o que dá pra fazer
+O que não dá pra evitar
+E não se pode escolher
+Se eu tivesse a força que você pensa que eu tenho
+Eu gravaria no metal da minha pele o teu desenho
+Feitos um pr'o outro... feitos pra durar
+Uma luz que não produz sombra
+O que não dá pra evitar
+E não se pode escolher
+Somos o que há de melhor
+Somos o que há pra fazer
+O que não dá pra evitar
+E não se pode escolher
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>jotaquest</id>
+		<titulo>JOTA QUEST</titulo>
+		<cor>
+			<bg>ffffff</bg>
+			<fg>1a75bc</fg>
+			<icon>f9b233</icon>
+			<out>ea5048</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>De Volta ao Planeta</nome>
+                <sample>jotaquest_01_DeVoltaAoPlaneta.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin)
+Jota Quest Edições Musicais 
+                </autor>
+                <original>Originalmente gravada em 1998 no CD De Volta Ao Planeta</original>
+                <letra>
+Lá fora,
+Todos os corações procuram a sua órbita
+Novas propostas pro mundo
+
+Novos encaixes pras coisas
+Que ainda não estão no lugar
+Atento às diversidades
+Em busca da chacrete espacial
+É preciso provar das loucuras
+Ativar novas possibilidades
+De volta ao planeta dos macacos
+
+Nana Banana Nanananana Banana
+Nana Banana Nanananana Banana
+
+Macacada reunida
+Rapaziada sambando, xingando
+Rodando na pista
+Macacada reunida
+Galera pelejando e dançando
+Procurando uma saída
+
+É... cê não tá sabendo não?
+Agora é lei: "Cada macaco no seu galho".
+
+Nana Banana Nanananana Banana
+Nana Banana Nanananana Banana
+
+Que tá faltando emprego no planeta dos macacos
+
+Nana Banana Nanananana Banana
+Nana Banana Nanananana Banana
+
+Que tá faltando emprego no planeta.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Sol</nome>
+                <sample>jotaquest_02_OSol.mp3</sample>
+                <autor>
+(Antônio Júlio)
+Tapajós (EMI) 
+                </autor>
+                <original>Originalmente gravada em 2005 no CD Até Onde Vai</original>
+                <letra>
+Ei, dor!
+Eu não te escuto mais
+Você não me leva a nada
+Ei, medo!
+Eu não te escuto mais
+Você não me leva a nada
+
+E se quiser saber
+Pra onde eu vou
+Pra onde tenha Sol
+É pra lá que eu vou 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Palavras de Um Futuro Bom</nome>
+                <sample>jotaquest_03_PalavrasDeUmFuturoBom.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin, Natalia Rodrigues)
+Jota Quest Edições Musicais 
+                </autor>
+                <original>Originalmente gravada em 2005 no CD Até Onde Vai </original>
+                <letra>
+Anda, enquanto o dia acorda agente ama,
+Tô pronto pra te ouvir aqui na cama!
+Te espero vamos rir de todo mundo
+Nesse quarto tão profundo... Lá, Lá, Lá...
+Para, repara tente ver a tua cara
+Contemple esse momento é coisa rara
+Uma emoção assim só se compara
+A tudo que nós já passamos juntos... Lá, Lá, Lá...
+
+Preciso tanto aproveitar você
+Olhar teus olhos, Beijar a tua boca
+Ouvir palavras de um futuro bom
+Preciso tanto aproveitar você
+Olhar teus olhos, beijar tua boca...
+Dizer palavras de um futuro bom...
+
+Anda, enquanto o dia acorda agente ama,
+Tô pronto pra te ouvir aqui na cama
+Te espero vamô rir de todo mundo...
+Nesse quarto tão profundo... Lá, Lá, Lá...
+Para, repara tente ver a tua cara...
+Contemple esse momento é coisa rara
+Uma emoção assim só se compara
+A tudo que nós já passamos juntos
+Nesse quarto em um segundo...
+
+Preciso tanto aproveitar você
+Beijar teus olhos, Olhar tua boca
+Dizer palavras de um futuro bom
+Dizer palavras de um futuro bom
+Preciso tanto aproveitar você
+Beijar teus olhos, Olhar tua boca
+Ouvir palavras de um futuro bom
+
+Palavras, Palavras de um futuro bom...
+Palavras, Palavras, Palavras 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Fácil</nome>
+                <sample>jotaquest_04_Facil.mp3</sample>
+                <autor>
+(Márcio Buzelin, Marco Túlio Lara, Paulinho Fonseca, Paulo Diniz, Rogério Flausino, Wilsinho Oliveira)
+Sony Music/ATV 
+                </autor>
+                <original>Originalmente gravada em 1998 no CD De Volta Ao Planeta</original>
+                <letra>
+Tudo é tão bom e azul
+E calmo como sempre
+Os olhos piscaram de repente
+Um sonho
+As coisas são assim
+Quando se está amando
+As bocas não se deixam
+E o segundo não tem fim
+
+Um día feliz
+és vezes é muito raro
+Falar é complicado
+Quero uma canção
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto
+
+Tudo se torna claro
+Pateticamente pálido
+O coração dispara
+Se eu vejo o teu carro
+A vida é tão simples
+Mas dá medo de tocar
+As mãos se procuram sós
+
+Como a gente mesmo quis
+Um día feliz
+és vezes é muito raro
+Falar é complicado
+Quero uma canção
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Só Hoje</nome>
+                <sample>jotaquest_05_SoHoje.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin, Fernanda Mello)
+Jota Quest Edições Musicais, Sony Music/ATV 
+                </autor>
+                <original>Originalmente gravada em 2001 no CD Discotecagem Pop Variada</original>
+                <letra>
+Hoje eu preciso te encontrar de qualquer jeito
+Nem que seja só pra te levar pra casa
+Depois de um dia normal...
+Olhar teus olhos de promessas fáceis
+E te beijar a boca de um jeito que te faça rir
+(que te faça rir)
+
+Hoje eu preciso te abraçar...
+Sentir teu cheiro de roupa limpa...
+Pra esquecer os meus anseios e dormir em paz!
+
+Hoje eu preciso ouvir qualquer palavra tua!
+Qualquer frase exagerada que me faça sentir alegria...
+Em estar vivo.
+
+Hoje eu preciso tomar um café, ouvindo você suspirar...
+Me dizendo que eu sou o causador da tua insônia...
+Que eu faço tudo errado sempre, sempre.
+
+Hoje preciso de você
+
+Com qualquer humor, com qualquer sorriso
+Hoje só tua presença
+Vai me deixar feliz
+Só hoje
+
+(solo)
+
+Hoje eu preciso ouvir qualquer palavra tua!
+Qualquer frase exagerada que me faça sentir alegria...
+Em estar vivo.
+
+Hoje eu preciso tomar um café, ouvindo você suspirar...
+Me dizendo que eu sou o causador da tua insônia...
+Que eu faço tudo errado sempre, sempre.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Amor Maior</nome>
+                <sample>jotaquest_06_AmorMaior.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin)
+Jota Quest Edições Musicais 
+                </autor>
+                <original>Originalmente gravada em 2003 no CD Ao Vivo MTV</original>
+                <letra>
+Eu quero ficar só, mas comigo só eu não consigo
+Eu quero ficar junto, mas sozinho só não é possível
+É preciso amar direito, um amor de qualquer jeito
+Ser amor a qualquer hora, ser amor de corpo inteiro
+Amor de dentro pra fora, amor que eu desconheço
+
+Quero um amor maior, um amor maior que eu
+Quero um amor maior, um amor maior que eu
+
+Eu quero ficar só, mas comigo só eu não consigo
+Eu quero ficar junto, mas sozinho só não é possível
+É preciso amar direito, um amor de qualquer jeito
+Ser amor a qualquer hora, ser amor de corpo inteiro
+Amor de dentro pra fora, amor que eu desconheço
+
+Quero um amor maior, um amor maior que eu, que eu
+Quero um amor maior, um amor maior que eu
+
+Então seguirei meu coração até o fim pra saber se é amor
+Magoarei mesmo assim mesmo sem querer pra saber se é amor
+Eu estarei mais feliz mesmo morrendo de dor
+Pra saber se é amor, se é amor
+
+Quero um amor maior, um amor maior que eu, que eu
+Quero um amor maior, um amor maior que eu
+Um amor maior que eu, maior que eu, um amor maior que eu
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Que Eu Também Não Entendo</nome>
+                <sample>jotaquest_07_OQueEuTambemNaoEntendo.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin, Fernanda Mello)
+Jota Quest Edições Musicais, Sony Music/ATV 
+                </autor>
+                <original>Originalmente gravada em 2000 no CD Oxigênio</original>
+                <letra>
+Essa não é mais uma carta de amor
+São pensamentos soltos
+Traduzidos em palavras
+Pra que você possa entender
+O que eu também não entendo
+
+Amar não é ter que ter
+Sempre certeza
+É aceitar que ninguém
+É perfeito pra ninguém
+É poder ser você mesmo
+E não precisar fingir
+É tentar esquecer
+E não conseguir fugir, fugir
+
+Já pensei em te largar
+Já olhei tantas vezes pro lado
+Mas quando penso em alguém
+É por você que fecho os olhos
+Sei que nunca fui perfeito
+Mas com você eu posso ser
+Até eu mesmo
+Que você vai entender
+
+Posso brincar de descobrir
+Desenho em nuvens
+Posso contar meus pesadelos
+E até minhas coisas fúteis
+Posso tirar a tua roupa
+Posso fazer o que eu quiser
+Posso perder o juízo
+Mas com você
+Eu tô tranquilo, tranquilo
+
+Agora o que vamos fazer
+Eu também não sei
+Afinal, será que amar
+É mesmo tudo?
+Se isso não é amor
+O que mais pode ser?
+Tô aprendendo também
+
+Já pensei em te largar
+Já olhei tantas vezes pro lado
+Mas quando penso em alguém
+É por você que fecho os olhos
+
+Sei que nunca fui perfeito
+Mas com você eu posso ser
+Até eu mesmo
+Que você vai entender
+
+Posso brincar de descobrir
+Desenho em nuvens
+Posso contar meus pesadelos
+E até minhas coisas fúteis
+Posso tirar a tua roupa
+Posso fazer o que eu quiser
+Posso perder o juízo
+Mas com você
+Eu tô tranquilo, tranquilo
+
+Agora o que vamos fazer?
+Eu também não sei!
+Afinal, será que amar
+É mesmo tudo?
+Se isso não é amor
+O que mais pode ser?
+Estou aprendendo também
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Vento</nome>
+                <sample>jotaquest_08_OVento.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin)
+Jota Quest Edições Musicais 
+                </autor>
+                <original>Originalmente gravada em 1998 no CD De Volta Ao Planeta</original>
+                <letra>
+Voe por todo mar e volte aqui
+Voe por todo mar e volte aqui
+Pro meu peito...
+
+Se você foi, vou te esperar
+Com o pensamento que só fica em você
+
+Aquele dia, um algo mais
+Algo que eu não poderia prever
+Você passou perto de mim
+Sem que eu pudesse entender
+Levou os meus sentidos todos pra você
+
+Mudou a minha vida e mais
+Pedi ao vento pra trazer você aqui
+Morando nos meus sonhos e na minha memória
+Pedi ao vento pra trazer você pra mim
+
+Vento traz você de novo
+Vento faz do meu mundo um novo
+E voe por todo o mar e volte aqui
+E voe por todo o mar e volte aqui
+Pro meu peito... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Encontrar Alguém</nome>
+                <sample>jotaquest_09_EncontrarAlguem.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin)
+Sony Music/ATV 
+                </autor>
+                <original>Originalmente gravada em 1996 no CD J. Quest</original>
+                <letra>
+Encontrar alguém
+Encontrar alguém
+Encontrar alguém, que me dê amor
+Encontrar alguém
+Encontrar alguém
+Encontrar alguém, que me dê amor
+
+Da esquina eu vi o brilho dos teu olhos
+Tua vontade de morrer de rir
+Teus cabelos tentaram esconder
+
+Mas vi tua boca feliz
+Tua alma leve como as fadas
+Que bailavam no teu peito
+Tua pele clara como a paz
+Que existe sim em todo sonho bom
+Quis matar os seus desejos
+Ver a cor dos teus segredos
+E contar pra todo mundo
+Do beijo que eu nunca esqueci 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Ônibusfobia</nome>
+                <sample>jotaquest_10_Onibusfobia.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin, Dudu Marote)
+Sony Music/ATV 
+                </autor>
+                <original>Originalmente gravada em 1996 no CD J. Quest</original>
+                <letra>
+Ah isso aqui ta muito bom
+Ah isso aqui ta bom de mais
+Burrup
+Mais que nervoso estou
+Burrup
+Sou neurastênico
+Burrup
+Preciso me casar
+
+Se não eu vou pra
+E Jacarepaguá é longe pra caramba
+Jacarepaguá só se eu tiver de carro
+Jacarepaguá só se eu tiver na Barra
+Se não não vou nem se amarrado
+
+Ah isso aqui ta muito bom
+Ah isso aqui ta bom de mais
+Ah isso aqui ta muito bom
+Ah isso aqui ta bom de mais
+
+É como se eu estivesse em
+Pegando um balaio lá pra casa
+Do paulinho pra mais um ensaio
+Da pra
+Com um trânsito danado
+Na Avenida Catalão
+
+É como se eu tivesse em
+Num calor retado no buzu de
+Como se eu tivesse em
+Pegando um baita frio
+Dentro de um bus pro
+
+Como se eu tivesse em
+E tivesse que ir de bumba
+De a
+Ficando só de pé
+Ou enquadrando a bunda
+Desesperado pra chegar
+
+E é longe pra caramba
+Carapicuíba só se for de carro
+Carapicuíba só se for de 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Na Moral</nome>
+                <sample>jotaquest_11_NaMoral.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin, Wilson Sideral, Play)
+Sony ATV, Universal Music Publishing, Tapajós (EMI) 
+                </autor>
+                <original>Originalmente gravada em 2001 no CD Discotecagem Pop Variada</original>
+                <letra>
+Na moral, na moral (só na moral)
+Na moral
+
+Vivendo de folia e caos
+Quebrando tudo, pra variar
+
+Vivendo entre o sim e o não
+Levando tudo na moral
+
+Uma manchete de jornal
+Não vou deixar, me abalar
+
+Mais uma noite, carnaval
+No brasil, só na moral
+
+Refrão (2x)
+
+Viver entre o medo e a paz
+Pode fazer pensarmos mais
+
+No que a gente pode fazer
+Pra ficar vivo, pra variar
+
+Quando tudo parece não ter lógica
+Bombas de amor, tiros de amor, drogas de amor
+
+Qualquer paranóia vai virar prazer de viver... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Dias Melhores</nome>
+                <sample>jotaquest_12_DiasMelhores.mp3</sample>
+                <autor>
+(Paulinho Fonseca, Rogério Flausino, Paulo Diniz, Marco Túlio, Márcio Buzelin)
+Jota Quest Edições Musicais 
+                </autor>
+                <original>Originalmente gravada em 2000 no CD Oxigênio</original>
+                <letra>
+Vivemos esperando
+Dias melhores
+Dias de paz, dias a mais
+Dias que não deixaremos para trás
+
+Vivemos esperando
+O dia em que seremos melhores
+Melhores no amor, melhores na dor
+Melhores em tudo
+
+Vivemos esperando
+O dia em que seremos para sempre
+Vivemos esperando
+Dias melhores pra sempre
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>legiao</id>
+		<titulo>LEGIÃO URBANA</titulo>
+		<cor>
+			<bg>00a79d</bg>
+			<fg>1a75bc</fg>
+			<icon>754c29</icon>
+			<out>9dbc47</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Tempo Perdido</nome>
+                <sample>legiao_01_TempoPerdido.mp3</sample>
+                <autor>
+(Renato Russo)
+Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Dois</original>
+                <letra>
+Todos os dias quando acordo,
+Não tenho mais o tempo que passou
+Mas tenho muito tempo:
+Temos todo o tempo do mundo.
+
+Todos os dias antes de dormir,
+Lembro e esqueço como foi o dia:
+"Sempre em frente,
+Não temos tempo a perder".
+
+Nosso suor sagrado
+É bem mais belo que esse sangue amargo
+E tão sério
+E selvagem. (3x)
+
+Veja o sol dessa manhã tão cinza:
+A tempestade que chega é da cor dos seus
+Olhos castanhos
+Então me abraça forte
+E me diz mais uma vez
+Que já estamos distantes de tudo:
+Temos nosso próprio tempo. (3x)
+
+Não tenho medo do escuro,
+Mas deixe as luzes acesas agora,
+O que foi escondido é o que se escondeu,
+E o que foi prometido,
+Ninguém prometeu.
+
+Nem foi tempo perdido;
+Somos tão jovens
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Monte Castelo</nome>
+                <sample>legiao_02_MonteCastelo.mp3</sample>
+                <autor>
+(Renato Russo)
+Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1989 no CD As Quatro Estações</original>
+                <letra>
+Ainda que eu falasse a língua do homens.
+E falasse a língua do anjos, sem amor eu nada seria.
+
+É só o amor, é só o amor.
+Que conhece o que é verdade.
+O amor é bom, não quer o mal.
+Não sente inveja ou se envaidece.
+
+O amor é o fogo que arde sem se ver.
+É ferida que dói e não se sente.
+É um contentamento descontente.
+É dor que desatina sem doer.
+
+Ainda que eu falasse a língua dos homens.
+E falasse a língua dos anjos, sem amor eu nada seria.
+
+É um não querer mais que bem querer.
+É solitário andar por entre a gente.
+É um não contentar-se de contente.
+É cuidar que se ganha em se perder.
+
+É um estar-se preso por vontade.
+É servir a quem vence, o vencedor;
+É um ter com quem nos mata a lealdade.
+Tão contrário a si é o mesmo amor.
+
+Estou acordado e todos dormem todos dormem todos dormem.
+Agora vejo em parte. Mas então veremos face a face.
+
+É só o amor, é só o amor.
+Que conhece o que é verdade.
+
+Ainda que eu falasse a língua dos homens.
+E falasse a língua do anjos, sem amor eu nada seria.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Angra dos Reis</nome>
+                <sample>legiao_03_AngraDosReis.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Renato Rocha)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1987 no CD Que País É Este</original>
+                <letra>
+Deixa, se fosse sempre assim quente
+Deita aqui perto de mim
+Tem dias que tudo está em paz
+E agora todos os dias são iguais
+
+Se fosse só sentir saudade
+Mas tem sempre algo mais
+Seja como for
+É uma dor que dói no peito
+Pode rir agora que estou sozinho
+Mas não venha me roubar
+
+Vamos brincar peto da usina
+Deixa pra lá, a angra é dos reis
+Por que se explicar se não existe perigo?
+
+Senti seu coração perfeito batendo à toa
+E isso dói
+Seja como for
+É uma dor que dói no peito
+Pode riri agora que estou sozinho
+Mas não venha me roubar
+
+Vai ver que não é nada disso
+Vai ver que já não sei quem sou
+Vai ver que nunca fui o mesmo
+A culpa é toda sua e nunca foi
+Mesmo se as estrelas começassem a cair
+E nos queimasse tudo ao redor
+E fosse o fim chegando cedo
+E você visse o nosso corpo em chamas
+Deixa pra lá
+
+Quando as estrelas começarem a cair
+Me diz, me diz pra onde é que a gente vai fugir
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pais e Filhos</nome>
+                <sample>legiao_04_PaisEFilhos.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1989 no CD As Quatro Estações</original>
+                <letra>
+Estátuas e cofres
+E paredes pintadas
+Ninguém sabe o que aconteceu
+Ela se jogou da janela do quinto andar
+Nada fácil de entender
+
+Dorme agora
+É só o vento lá fora
+Quero colo
+Vou fugir de casa
+Posso dormir aqui
+Com vocês?
+Estou com medo tive um pesadelo
+Só vou voltar depois das três
+
+Meu filho vai ter
+Nome de santo
+Quero o nome mais bonito
+
+É preciso amar as pessoas
+Como se não houvesse amanhã
+Por que se você parar pra pensar
+Na verdade não há
+
+Me diz por que o céu é azul
+Explica a grande fúria do mundo
+São meus filhos que tomam conta de mim
+
+Eu moro com a minha mãe
+Mas meu pai vem me visitar
+Eu moro na rua não tenho ninguém
+Eu moro em qualquer lugar
+Já morei em tanta casa que nem me lembro mais
+Eu moro com os meus pais
+
+É preciso amar as pessoas
+Como se não houvesse amanhã
+Por que se você parar pra pensar
+Na verdade não há
+
+Sou uma gota d'água
+Sou um grão de areia
+Você me diz que seus pais não lhe entendem
+Mas você não entende seus pais
+Você culpa seus pais por tudo
+Isso é absurdo
+São crianças como você
+O que você vai ser
+Quando você crescer? 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Quase Sem Querer</nome>
+                <sample>legiao_05_QuaseSemQuerer.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Renato Rocha)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Dois</original>
+                <letra>
+Tenho andado distraído,
+Impaciente e indeciso
+E ainda estou confuso.
+Só que agora é diferente:
+Estou tão tranquilo e tão contente.
+Quantas chances desperdicei
+
+Quando o que eu mais queria
+Era provar pra todo o mundo
+Que eu não precisava
+Provar nada p'ra ninguém.
+
+Me fiz em mil pedaços
+P'ra você juntar
+E queria sempre achar
+Explicação p'ro que eu sentia.
+Como um anjo caído
+Fiz questão de esquecer
+Que mentir p'ra si mesmo
+É sempre a pior mentira.
+Mas não sou mais
+Tão criança a ponto de saber tudo.
+
+Já não me preocupo
+Se eu não sei porquê
+Às vezes o que eu vejo
+Quase ninguém vê
+E eu sei que você sabe
+Quase sem querer
+Que eu vejo o mesmo que você.
+
+Tão correto e tão bonito
+O infinito é realmente
+Um dos deuses mais lindos.
+Sei que às vezes uso
+Palavras repetidas
+Mas quais são as palavras
+Que nunca são ditas?
+
+Me disseram que você
+estava chorando
+E foi então que percebi
+Como lhe quero tanto.
+
+Já não me preocupo
+Se eu não sei porquê
+Às vezes o que eu vejo
+Quase ninguém vê
+E eu sei que você sabe
+Quase sem querer
+Que eu quero o mesmo que você 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Giz</nome>
+                <sample>legiao_06_Giz.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1993 no CD O Descobrimento do Brasil</original>
+                <letra>
+E mesmo sem te ver
+Acho até que estou indo bem
+Só apareço, por assim dizer
+Quando convém
+Aparecer ou quando quero
+Quando quero
+
+Desenho toda a calçada
+Acaba o giz, tem tijolo de construção
+Eu rabisco o sol que a chuva apagou
+Quero que saibas que me lembro
+Queria até que pudesses me ver
+És, parte ainda do que me faz forte
+E, pra ser honesto
+Só um pouquinho infeliz
+
+Mas tudo bem
+Tudo bem, tudo bem...
+Lá vem, lá vem, lá vem
+De novo
+Acho que estou gostando de alguém
+E é de ti que não me esquecerei
+Tudo bem, tudo bem...
+Eu rabisco o sol que a chuva apagou
+Tudo bem, tudo bem...
+Acho que estou gostando de alguém
+Tudo bem, tudo bem... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Eu Sei</nome>
+                <sample>legiao_07_EuSei.mp3</sample>
+                <autor>
+(Renato Russo)
+Legião Urbana Produções 
+                </autor>
+                <original>Originalmente gravada em 1987 no CD Que País É Este</original>
+                <letra>
+Sexo verbal não faz meu estilo
+Palavras são erros, e os erros são seus
+Não quero lembrar que eu erro também
+Um dia pretendo tentar descobrir
+Porque é mais forte quem sabe mentir
+Não quero lembrar que eu minto também
+Eu sei...
+Feche a porta do seu quarto
+Porque se toca o telefone pode ser alguém
+Com quem você quer falar
+Por horas e horas e horas
+A noite acabou, talvez tenhamos que fugir sem você
+Mas não, não vá agora, quero honras e promessas
+Lembranças e histórias
+Somos pássaro novo longe do ninho
+Eu sei 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Mundo Anda Tão Complicado</nome>
+                <sample>legiao_08_OMundoAndaTaoComplicado.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1991 no CD V</original>
+                <letra>
+Gosto de ver você dormir
+Que nem criança com a boca aberta
+O telefone chega sexta-feira
+Aperto o passo por causa da garoa
+Me empresta um par de meias
+A gente chega na sessão das dez
+Hoje eu acordo ao meio-dia
+Amanhã é a sua vez
+
+Vem cá, meu bem, que é bom lhe ver
+O mundo anda tão complicado
+Que hoje eu quero fazer tudo por você.
+
+Temos que consertar o despertador
+E separar todas as ferramentas
+Que a mudança grande chegou
+Com o fogão e a geladeira e a televisão
+Não precisamos dormir no chão
+Até que é bom, mas a cama chegou na terça
+E na quinta chegou o som
+
+Sempre faço mil coisas ao mesmo tempo
+E até que é fácil acostumar-se com meu jeito
+Agora que temos nossa casa
+é a chave que sempre esqueço
+
+Vamos chamar nossos amigos
+A gente faz uma feijoada
+Esquece um pouco do trabalho
+E fica de bate-papo
+Temos a semana inteira pela frente
+Você me conta como foi seu dia
+E a gente diz um p'ro outro:
+- Estou com sono, vamos dormir!
+
+Vem cá, meu bem, que é bom lhe ver
+O mundo anda tão complicado
+Que hoje eu quero fazer tudo por você
+
+Quero ouvir uma canção de amor
+Que fale da minha situação
+De quem deixou a segurança de seu mundo
+Por amor
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Por Enquanto</nome>
+                <sample>legiao_09_PorEnquanto.mp3</sample>
+                <autor>
+(Renato Russo)
+Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1985 no CD Legião Urbana</original>
+                <letra>
+Mudaram as estações e nada mudou
+Mas eu sei que alguma coisa aconteceu
+Esta tudo assim tão diferente
+
+Se lembra quando a gente
+Chegou um dia a acreditar
+Que tudo era pra sempre
+Sem saber
+Que o pra sempre
+Sempre acaba?
+
+Mas nada vai conseguir
+Mudar o que ficou
+Quando penso em alguém
+Só penso em você
+E aí então estamos bem
+
+Mesmo com tantos motivos
+Pra deixar tudo como esta
+E nem desistir, nem tentar
+Agora tanto faz
+
+Estamos indo de volta
+Pra casa
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Quando o Sol Bater na Janela do Seu Quarto</nome>
+                <sample>legiao_10_QuandoOSolBaterNaJanelaDoSeuQuarto.mp3</sample>
+                <autor>
+
+                </autor>
+                <original>Originalmente gravada em 1989 no CD As Quatro Estações</original>
+                <letra>
+Quando o sol bater
+Na janela do teu quarto
+Lembra e vê
+Que o caminho é um só.
+
+Porque esperar se podemos começar tudo de novo
+Agora mesmo
+A humanidade é desumana
+Mas ainda temos chance
+O sol nasce pra todos
+Só não sabe quem não quer.
+
+Quando o sol bater
+Na janela do teu quarto
+Lembra e vê
+Que o caminho é um só.
+
+Até bem pouco tempo atrás
+Poderíamos mudar o mundo
+Quem roubou nossa coragem?
+Tudo é dor
+E toda dor vem do desejo
+De não sentimos dor.
+
+Quando o sol bater
+Na janela do teu quarto
+Lembra e vê
+Que o caminho é um só.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Central do Brasil</nome>
+                <sample>legiao_11_CentralDoBrasil.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Dois</original>
+                <letra>
+(instrumental)
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vento no Litoral</nome>
+                <sample>legiao_12_VentoNoLitoral.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos Tapajós(EMI), Legião Urbana Produções
+                </autor>
+                <original>Originalmente gravada em 1991 no CD V</original>
+                <letra>
+De tarde eu quero decansar, chegar até a praia e ver
+Se o vento ainda está forte
+E vai ser bom subir nas pedras
+Sei que faço isso pra esquecer
+Eu deixo a onda me acertar
+E o vento vai levando tudo embora
+
+Agora está tão longe
+Vê, a linha do horizonte me distrai:
+Dos nossos planos é que tenho mais saudade,
+Quando olhávamos juntos na mesma direção
+
+Aonde está você agora
+Além de aqui dentro de mim?
+
+Agimos certo sem querer
+Foi só o tempo que errou
+Vai ser difícil sem você
+Porque você está comigo o tempo todo
+
+Quando vejo o mar
+Existe algo que diz:
+- A vida continua e se entregar é uma bobagem
+
+Já que você não está aqui,
+O que posso fazer é cuidar de mim
+Quero ser feliz ao menos
+Lembra que o plano era ficarmos bem?
+
+- Ei, olha só o que eu achei: cavalos-marinhos
+Sei que faço isso pra esquecer
+Eu deixo a onda me acertar
+E o vento vai levando tudo embora
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>paralamas</id>
+		<titulo>PARALAMAS DO SUCESSO</titulo>
+		<cor>
+			<bg>75456f</bg>
+			<fg>1b75bc</fg>
+			<icon>f79633</icon>
+			<out>75456f</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Óculos</nome>
+                <sample>paralamas_01_Oculos.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós 
+                </autor>
+                <original>Originalmente gravada em 1984 no CD O Passo do Lui</original>
+                <letra>
+Se as meninas do Leblon
+não olham mais pra mim
+(Eu uso óculos)
+E volta e meia eu entro
+com meu carro pela contramão
+(Eu tô sem óculos)
+Se tô alegre eu ponho os óculos
+e vejo tudo bem
+Mas se estou triste eu tiro os óculos
+eu não vejo ninguém
+Por que você não olha pra mim?
+Me diz o que é que eu tenho de mais
+Por que você não olha pra mim?
+Por trás destas lentes tem um cara legal
+Eu quis te dizer que eu nunca fui "o tal"
+Era mais jogo se eu tentasse
+fazer charme de intelectual
+Se eu te disser periga você
+não acreditar em mim
+Eu não nasci de óculos
+Eu não era assim, não
+Por que você não olha pra mim?
+Por que você diz sempre que não?
+Por que você não olha pra mim?
+Por trás destas lentes também
+bate um coração 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Melô do Marinheiro</nome>
+                <sample>paralamas_02_MeloDoMarinheiro.mp3</sample>
+                <autor>
+(Bi Ribeiro, João Barone)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Selvagem</original>
+                <letra>
+Entrei de gaiato num navio
+Entrei, entrei, entrei pelo cano
+Entrei de gaiato
+Entrei, entrei, entrei por engano
+
+Aceitei, me engajei, fui conhecer a embarcação
+A popa e o convés, a proa e o timão
+Tudo bem bonito pra chamar a atenção
+Foi quando eu recebi um balde d`água e sabão
+"Tá vendo essa sujeira bem debaixo dos seus pés?
+Pois deixa de moleza e vai lavando esse convés!"
+
+Entrei de gaiato num navio
+Entrei, entrei, entrei pelo cano
+Entrei de gaiato num navio
+Entrei, entrei, entrei por engano
+
+Quando eu dei por mim eu já estava em alto-mar
+Sem a menor chance nem vontade de voltar
+Pensei que era moleza mas foi pura ilusão
+Conhecer o mundo inteiro sem gastar nenhum tostão
+
+Liverpool, Baltimore, Bangkok e Japão
+E eu aqui descascando batata no porão
+Liverpool, Baltimore, Bangkok e Japão
+E eu aqui descascando batata!
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Cinema Mudo</nome>
+                <sample>paralamas_03_CinemaMudo.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1983 no Cd Cinema Mudo</original>
+                <letra>
+Uô le bo le ô ô ô ô ô ô
+Amor sem palavras
+Cinema mudo
+Não falo nada você sabe tudo
+Ô,ô,ô, ô
+A noite chega
+Me dá um toque
+Melancolia não dá Ibope
+Ô,ô,ô ô
+Eu tenho que aprender a dizer tudo que eu sinto por você
+Eu tenho que aprender
+Num desses seriados de TV
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Lanterna dos Afogados</nome>
+                <sample>paralamas_04_LanternaDosAfogados.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1989 no CD Big Bang</original>
+                <letra>
+Quando está escuro
+E ninguém te ouve
+Quando chega a noite
+E você pode chorar
+
+Há uma luz no túnel
+Dos desesperados
+Há um cais de porto
+Pra quem precisa chegar
+
+Eu estou na Lanterna dos Afogados
+Eu estou te esperando
+Vê se não vai demorar
+
+Uma noite longa
+Pruma vida curta
+Mas já não me importa
+Basta poder te ajudar
+
+E são tantas marcas
+Que já fazem parte
+Do que eu sou agora
+Mas ainda sei me virar
+
+Eu tou na Lanterna dos Afogados
+Eu tô te esperando
+Vê se não vai demorar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Uma Brasileira</nome>
+                <sample>paralamas_05_UmaBrasileira.mp3</sample>
+                <autor>
+(Herbert Vianna, Carlinhos Brown)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1995 no Cd Vamo Batê Lata</original>
+                <letra>
+Rodas em sol, trovas em só
+Uma brasileira, ô
+Uma forma inteira, ô
+You, you, you
+Nada demais
+Nada através
+Uma légua e meia, ô
+Uma brasa incendeia, ô
+You, you, you
+Deixa o sal no mar
+Deixe tocar aquela canção
+One more time
+Tatibitate
+Trate-me, trate
+Como um candeeiro, ô
+Somos do interior do milho
+E esse ão de são
+Hei de cantar naquela canção
+One more time
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vital e Sua Moto</nome>
+                <sample>paralamas_06_VitalESuaMoto.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1983 no CD Cinema Mudo</original>
+                <letra>
+Vital andava a pé
+E achava que assim estava mal
+De um ônibus pro outro aquilo pra ele era o fim
+Conselho de seu pai
+Motocicleta é perigoso Vital
+É duro te negar filho
+Mas isso dói bem mais em mim
+
+Mas Vital comprou a moto
+E passou a se sentir total
+Vital e sua moto mas que união feliz
+Corria e viajava era sensacional
+A vida em duas rodas
+Era tudo que ele sempre quis
+
+Vital passou a se sentir total
+Com seu sonho de metal
+Vital passou a se sentir total
+No seu sonho
+
+Os Paralamas do Sucesso
+Iam tentar tocar na capital
+E a caravana do amor
+Então pra lá também se encaminhou
+Ele foi com sua moto
+Que de carro era baixo astral
+Minha prima já esta lá
+E é por isso que eu também vou
+
+Vital passou a se sentir total
+Com seu sonho de metal
+Vital passou a se sentir total
+No seu sonho
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Cuide Bem do Seu Amor</nome>
+                <sample>paralamas_07_CuideBemDoSeuAmor.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 2002 no CD Longo Caminho</original>
+                <letra>
+A vida sem freio me leva, me arrasta, me cega
+No momento em que eu queria ver
+O segundo que antecede o beijo
+A palavra que destrói o amor
+Quando tudo ainda estava inteiro
+No instante em que desmoronou
+Palavras duras em voz de veludo
+E tudo muda, adeus velho mundo
+A um segundo tudo estava em paz
+
+Cuide bem do seu amor
+Seja quem for (2x)
+
+E cada segundo, cada momento, cada instante
+É quase eterno, passa devagar
+Se o seu mundo for o mundo inteiro
+Sua vida, seu amor, seu lar
+Depois de tudo que for verdadeiro
+Depois de tudo que não for passar
+Palavras duras em voz de veludo
+E tudo muda, adeus velho mundo
+A um segundo tudo estava em paz
+
+Cuide bem do seu amor
+Seja quem for
+
+Palavras duras em voz de veludo
+E tudo muda, adeus velho mundo
+A um segundo tudo estava em paz
+
+Cuide bem do seu amor
+Seja quem for
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Nebulosa do Amor</nome>
+                <sample>paralamas_08_NebulosaDoAmor.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós
+                </autor>
+                <original>Originalmente gravada em 1989 no CD Big Bang</original>
+                <letra>
+Lá fora é tudo cinza e azul
+É a hora mais propícia
+Vê-se a olho nu
+
+Cruzando o céu
+Pequenas astronaves do amor
+Vindas de um planeta
+Da nebulosa do amor
+
+Ontem, hoje, outro dia já passou
+Alguém que eu não conhecia
+Hoje me mostrou
+
+Cruzando o céu
+Pequenas astronaves do amor
+Vindas de um planeta
+Da nebulosa do amor.
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Caleidoscópio</nome>
+                <sample>paralamas_09_Caleidoscopio.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1990 no CD Arquivo</original>
+                <letra>
+Não é preciso apagar a luz
+Eu fecho os olhos e tudo vem
+Num Caleidoscópio sem lógica
+Eu quase posso ouvir a tua voz
+Eu sinto a tua mão a me guiar
+Pela noite a caminho de casa...
+
+Quem vai pagar as contas
+Desse amor pagão
+Te dar a mão
+Me trazer à tona prá respirar
+Vai chamar meu nome
+Ou te escutar...
+
+Me pedindo prá apagar a luz
+Amanheceu é hora de dormir
+Nesse nosso relógio sem órbita
+Se tudo tem que terminar assim
+Que pelo menos seja até o fim
+Prá gente não ter nunca mais
+Que terminar...
+
+Quem vai pagar as contas
+Desse amor pagão
+Te dar a mão
+Me trazer à tona prá respirar
+Vai chamar meu nome
+Ou te escutar...
+
+Me pedindo prá apagar a luz
+Amanheceu é hora de dormir
+Nesse nosso relógio sem órbita
+Se tudo tem que terminar assim
+Que pelo menos seja até o fim
+Prá gente não ter nunca mais
+Que terminar
+Êh! Êh!...
+
+Quem vai pagar as contas
+Desse amor pagão
+Te dar a mão
+Me trazer à tona prá respirar
+Vai chamar meu nome
+Ou te escutar...
+
+Me pedindo prá apagar a luz
+Amanheceu é hora de dormir
+Nesse nosso relógio sem órbita
+Se tudo tem que terminar assim
+Que pelo menos seja até o fim
+Prá gente não ter nunca
+Nunca, nunca, nunca
+Ah! Ah! Êh! Êh!... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Tendo a Lua</nome>
+                <sample>paralamas_10_TendoALua.mp3</sample>
+                <autor>
+(Herbert Vianna, Tetê Tillet)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1991 no CD Os Grãos</original>
+                <letra>
+Eu hoje joguei tantas coisas fora
+Eu vi o meu passado passar por mim
+Cartas e fotografia, gente que foi embor
+A casa fico bem melhor assim
+
+O céu de Ìcaro tem mais poesia que o céu de Galileu
+E lendo os teus bilhetes eu penso no que fiz
+Querendo ver o mais distante sem saber voar
+Desprezando as asas que você me deu
+
+Tendo a lua aquela gravidade
+Aonde o homem flutua
+Merecia visita não de militares
+Mas de bailarinos e de você e eu
+
+Eu joguei tantas coisas fora
+E lendo os teus bilhetes eu penso no que eu fiz
+Cartas e fotografias, gente que foi embora
+A casa fica bem melhor assim Tendo a lua...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Meu Erro</nome>
+                <sample>paralamas_11_MeuErro.mp3</sample>
+                <autor>
+(Herbert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 1984 no CD O Passo do Lui</original>
+                <letra>
+Eu quis dizer
+Você não quis escutar
+Agora não peça
+Não me faça promessas...
+
+Eu não quero te ver
+Nem quero acreditar
+Que vai ser diferente
+Que tudo mudou...
+
+Você diz não saber
+O que houve de errado
+E o meu erro foi crer
+Que estar ao seu lado
+Bastaria!
+Ah! Meu Deus!
+Era tudo o que eu queria
+Eu dizia o seu nome
+Não me abandone...
+
+Mesmo querendo
+Eu não vou me enganar
+Eu conheço os seus passos
+Eu vejo os seus erros
+Não há nada de novo
+Ainda somos iguais
+Então não me chame
+Não olhe prá trás...
+
+Você diz não saber
+O que houve de errado
+E o meu erro foi crer
+Que estar ao seu lado
+Bastaria!
+Ah! Meu Deus!
+Era tudo o que eu queria
+Eu dizia o seu nome
+Não me abandone jamais...
+
+Mesmo querendo
+Eu não vou me enganar
+Eu conheço os seus passos
+Eu vejo os seus erros
+Não há nada de novo
+Ainda somos iguais
+Então não me chame
+Não olhe prá trás...
+
+Você diz não saber
+O que houve de errado
+E o meu erro foi crer
+Que estar ao seu lado
+Bastaria!
+Ah! Meu Deus!
+Era tudo o que eu queria
+Eu dizia o seu nome
+Não me abandone jamais...
+
+Não me abandone jamais... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Aonde Quer Que Eu Vá</nome>
+                <sample>paralamas_12_AondeQuerQueEuVa.mp3</sample>
+                <autor>
+(Herbert Vianna, Paulo Sérgio Valle)
+Tapajós (EMI)
+                </autor>
+                <original>Originalmente gravada em 2000 no CD Arquivo II</original>
+                <letra>
+Olhos fechados
+Pra te encontrar
+Não estou ao seu lado
+Mas posso sonhar
+
+Aonde quer que eu vá
+Levo você no olhar
+Aonde quer que eu vá
+Aonde quer que eu vá
+
+Não sei bem certo
+Se é só ilusão
+Se é você já perto
+Se é intuição
+
+Aonde quer que eu vá
+Levo você no olhar
+Aonde quer que eu vá
+Aonde quer que eu vá
+
+Longe daqui
+Longe de tudo
+Meus sonhos vão te buscar
+Volta pra mim
+Vem pro meu mundo
+Eu sempre vou te esperar
+
+Larará! Lararára!
+
+Não sei bem certo
+Se é só ilusão
+Se é você já perto
+Se é intuição
+
+Aonde quer que eu vá
+Levo você no olhar
+Aonde quer que eu vá
+Aonde quer que eu vá
+
+Lá! Larará! Larará!
+Lá! Larará! Larará!
+Aonde quer que eu vá
+Lá! Larará! Larará!
+Lá! Larará! Larará!
+Lá! Larará! Larará!
+Aonde quer que eu vá 
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>ritalee</id>
+		<titulo>RITA LEE</titulo>
+		<cor>
+			<bg>fae7be</bg>
+			<fg>6c3d94</fg>
+			<icon>1b75bc</icon>
+			<out>d54c54</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Ovelha Negra</nome>
+                <sample>ritalee_01_OvelhaNegra.mp3</sample>
+                <autor>
+(Rita Lee)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1975 no CD Fruto Proibido</original>
+                <letra>
+Levava uma vida sossegada
+Gostava de sombra e água fresca
+Meu Deus quanto tempo eu passei
+Sem saber
+Foi quando meu pai me disse filha
+Você é a ovelha negra da família
+Agora é hora de você assumir
+E sumir
+Baby baby
+Não adianta chamar, oh não
+Quando alguém está perdido
+Procurando se encontrar
+Baby baby
+Não vale a pena esperar, oh não
+Tire isso da cabeça
+Ponha o resto no lugar 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Desculpe o Auê</nome>
+                <sample>ritalee_02_DesculpeOAue.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1983 no CD Bombom</original>
+                <letra>
+Desculpe o auê
+Eu não queria magoar você
+Foi ciúme, sim
+Fiz greve de fome, guerrilhas, motins
+Perdi a cabeça, esqueça
+
+Desculpe o auê
+Eu não queria magoar você
+Foi ciúme, sim
+Fiz greve de fome, guerrilhas, motins
+Perdi a cabeça, esqueça
+
+Da próxima vez eu me mando
+Que se dane meu jeito inseguro
+Nosso amor vale tanto
+Por você vou roubar os anéis de Saturno
+
+Da próxima vez eu me mando
+Que se dane meu jeito inseguro
+Nosso amor vale tanto
+Por você vou roubar os anéis de Saturno
+
+Xa la la la la la
+
+Esqueça . . . 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Mamãe Natureza</nome>
+                <sample>ritalee_03_MamaeNatureza.mp3</sample>
+                <autor>
+(Rita Lee)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1974 no CD Atrás do Porto Tem Uma Cidade</original>
+                <letra>
+Não sei se eu estou pirando
+Ou se as coisas estão melhorando
+Não sei se eu vou ter algum dinheiro
+Ou se eu só vou cantar no chuveiro
+Estou no colo da mãe natureza
+Ela toma conta da minha cabeça
+É que eu sei que não adianta mesmo a gente chorar
+A mamãe não dá sobremesa
+
+Mamãe, ma-mamãe natureza!
+Mamãe, ma-mamãe natureza!
+Mamãe, ma-mamãe natureza! 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Nem Luxo, Nem Lixo</nome>
+                <sample>ritalee_04_NemLuxoNemLixo.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1979 no CD Rita Lee</original>
+                <letra>
+Como vai você?
+Assim como eu
+Uma pessoa comum
+Um filho de Deus
+Nessa canoa furada
+Remando contra a maré
+Não acredito em nada
+Até duvido da fé
+
+Não quero luxo nem lixo
+Meu sonho é ser imortal, meu amor
+Não quero luxo nem lixo
+Quero saúde pra gozar no final 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Jardins da Babilônia</nome>
+                <sample>ritalee_05_JardinsDaBabilonia.mp3</sample>
+                <autor>
+(Rita Lee - Lee Marcucci)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1978 no CD Babilônia</original>
+                <letra>
+Suspenderam os jardins da Babilônia
+E eu pra não ficar por baixo
+Resolvi botar as asas pra fora, porque
+Quem não chora dali, não mama daqui, diz o ditado
+Quem pode, pode, deixa os acomodados que se incomodem
+
+Minha saúde não é de ferro mão
+Mas meus nervos são de aço
+Pra pedir silêncio eu berro
+Pra fazer barulho eu mesma faço, ou não
+
+Mas pegar fogo nunca foi atração de circo
+Mas de qualquer maneira
+Pode ser um caloroso espetáculo, então
+O palhaço ri dali, o povo chora daqui, e o show não pára
+E apesar dos pesares do mundo
+Vou segurar esta barra 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Agora Só Falta Você</nome>
+                <sample>ritalee_06_AgoraSoFaltaVoce.mp3</sample>
+                <autor>
+(Rita Lee - Luis Sérgio)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1975 no CD Fruto Proibido</original>
+                <letra>
+Um belo dia resolvi mudar
+E fazer tudo o que eu queria fazer
+Me libertei daquela vida vulgar
+Que eu levava estando junto a você
+
+E em tudo que eu faço
+Existe um porquê
+
+Eu sei que eu nasci
+Sei que eu nasci pra saber
+
+E fui andando sem pensar em voltar
+E sem ligar pro que me aconteceu
+Um belo dia vou lhe telefonar
+Pra lhe dizer que aquele sonho cresceu
+
+No ar que eu respiro, uu
+Eu sinto prazer
+
+De ser quem eu sou
+De estar onde estou
+
+Agora só falta você, iê, iê
+Agora só falta você, iê, iê
+Agora só falta você.. 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Só de Você</nome>
+                <sample>ritalee_07_SoDeVoce.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1982 no CD Rita Lee</original>
+                <letra>
+Será que a gente ainda será
+A velha estória de amor que sempre acaba bem, meu bem
+Meio demodê para hoje em dia
+Antigamente, tudo era bem mais chique
+
+Porque a gente nem sabe porque
+Mas acontece que eu nasci pra ser só de você
+É claro que a sorte também ajudou
+Ultimamente, um romance dura pouco
+
+Cola, seu rosto no meu rosto
+Enrola, seu corpo no meu corpo
+Agora, está na hora de dançar... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Banho de Espuma</nome>
+                <sample>ritalee_08_BanhoDeEspuma.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1981 no CD Saúde</original>
+                <letra>
+Que tal nós dois numa banheira de espuma
+El cuerpo caliente, um dolce farniente
+Sem culpa nenhuma
+
+Fazendo massagem, relaxando a tensão
+Em plena vagabundagem, com toda disposição
+Falando muita bobagem, esfregando com água e sabão
+
+Que tal nós dois numa banheira de espuma
+El cuerpo caliente, um dolce farniente
+Sem culpa nenhuma
+
+Fazendo massagem, relaxando a tensão
+Em plena vagabundagem, com toda disposição
+Falando muita bobagem, esfregando com água e sabão
+
+Lá no reino de Afrodite o amor passa dos limites
+Quem quiser que se habilite, o que não falta é apetite
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Lança Perfume</nome>
+                <sample>ritalee_09_LancaPerfume.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1979 no CD Rita Lee</original>
+                <letra>
+Lança menina, lança todo este perfume
+Desbaratina não dá pra ficar imune
+Ao teu amor que tem cheiro de coisa maluca
+Vem cá meu bem, me descola um carinho
+Eu sou néném, só sossego com beijinho
+Vê se me dá o prazer de ter prazer comigo
+Me aqueça
+Me vira de ponta cabeça
+Me faz de gato e sapato e...
+Me deixa de quatro no ato
+Me enche de amor, de amor
+Lança, lança pefume
+Oh oh oh oh lança, lança perfume
+Lança perfume... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Mania de Você</nome>
+                <sample>ritalee_10_ManiaDeVoce.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1978 no CD Rita Lee</original>
+                <letra>
+Meu bem você me dá
+Água na boca
+Vestindo fantasias
+Tirando a roupa
+Molhada de suor
+De tanto a gente se beijar
+De tanto imaginar
+Imaginar!
+Loucuras...
+A gente faz o amor
+Por telepatia
+No chão, no mar, na lua
+Na melodia
+Mania de você
+De tanto a gente se beijar
+De tanto imaginar
+Imaginar!
+Loucuras...
+Nada melhor
+Do que não fazer nada
+Só prá deitar
+E rolar com você...
+Tendo a lua... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Shangrilá</nome>
+                <sample>ritalee_11_Shangrila.mp3</sample>
+                <autor>
+(Rita Lee - Roberto de Carvalho)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1979 no CD Rita Lee</original>
+                <letra>
+De repente eu me vejo
+Amarelada, bodeada, sem ninguém
+Nessas horas aparece a preguiça
+A vontade de sumir... de vez
+
+Se me der na telha sou capaz
+De enlouquecer
+E mandar tudo pr´aquele lugar
+E fugir com você pra Shangrilá
+E me deixar levar
+Por um beijo eterno
+Por seu corpo envolvente
+Mais quente que o inferno
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Menino Bonito</nome>
+                <sample>ritalee_12_MeninoBonito.mp3</sample>
+                <autor>
+(Rita Lee)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1973 no CD Atrás do Porto Tem Uma Cidade</original>
+                <letra>
+Lindo, e eu me sinto enfeitiçada
+Correndo perigo.
+Seu olhar é simplesmente lindo,
+Mas também não diz mais nada
+Menino bonito.
+E então quero olhar você,
+Depois ir embora.
+Sem dizer o porquê.
+Eu sou cigana
+Basta olhar pra você 
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>skank</id>
+		<titulo>SKANK</titulo>
+		<cor>
+			<bg>006848</bg>
+			<fg>000000</fg>
+			<icon>1b75bc</icon>
+			<out>66bf7c</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Dois Rios</nome>
+                <sample>skank_01_DoisRios.mp3</sample>
+                <autor>
+(Samuel Rosa, Lô Borges, Nando Reis)
+Sam Music, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2003 no CD Cosmotron</original>
+                <letra>
+O céu está no chão
+O céu não cai do alto
+É o claro, é a escuridão
+
+O céu que toca o chão
+e o céu que vai no alto
+dois lados deram as mãos
+Como eu fiz também
+
+Só pra poder conhecer
+O que a voz da vida vem dizer
+
+Que os braços sentem
+E os olhos vêem
+que os lábios sejam
+dois rios inteiros
+sem direção
+
+O sol é o pé e a mão
+O sol é a mãe e o pai dissolve a escuridão
+O sol se põe se vai
+E após se por o sol renasce no Japão
+Eu vi também
+
+Só pra poder entender
+Na voz da vida ouvi dizer
+
+Que os braços sentem
+E os olhos vêem
+E os lábios beijam
+dois rios inteiros
+Sem direção
+
+E o meu lugar é esse ao lado seu no corpo inteiro
+Dou meu lugar, pois o seu lugar é o meu amor primeiro
+O dia e a noite,
+as quatro estações 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Sutilmente</nome>
+                <sample>skank_02_Sutilmente.mp3</sample>
+                <autor>
+(Samuel Rosa, Nando Reis)
+Sam Music, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2008 no CD Estandarte</original>
+                <letra>
+E quando eu estiver triste
+Simplesmente me abrace
+Quando eu estiver louco
+Subitamente se afaste
+Quando eu estiver fogo
+Suavemente se encaixe
+
+E quando eu estiver triste
+Simplesmente me abrace
+E quando eu estiver louco
+Subitamente se afaste
+E quando eu estiver bobo
+Sutilmente disfarce
+
+Mas quando eu estiver morto
+Suplico que não me mate, não
+Dentro de ti, dentro de ti
+
+Mesmo que o mundo acabe, enfim
+Dentro de tudo que cabe em ti 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Resposta</nome>
+                <sample>skank_03_Resposta.mp3</sample>
+                <autor>
+(Samuel Rosa, Nando Reis)
+Sam Music, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1998 no CD Siderado</original>
+                <letra>
+Bem mais que o tempo
+Que nós perdemos
+Ficou pra trás também o que nos juntou
+Ainda lembro o que eu estava lendo
+Só pra saber o que você achou
+Dos versos que eu fiz
+E ainda espero resposta
+
+Desfaz o vento
+O que há por dentro
+Desse lugar que ninguém mais pisou
+Você está vendo o que está acontecendo
+Nesse caderno sei que ainda estão...
+
+Os versos seus
+Tão meus que peço
+Nos versos meus
+Tão seus que esperem
+
+Que os aceite
+Em paz
+eu digo que eu sou
+O antigo do que vai
+Adiante
+Sem mais eu fico onde estou
+Prefiro continuar distante 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vou Deixar</nome>
+                <sample>skank_04_VouDeixar.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Sam Music, Tapajós
+                </autor>
+                <original>Originalmente gravada em 2003 no CD Cosmotron</original>
+                <letra>
+Vou deixar a vida me levar
+Pra onde ela quiser
+Estou no meu lugar
+Você já sabe onde é
+Não conte o tempo por nós dois
+Pois a qualquer hora posso estar de volta
+Depois que a noite terminar
+
+Vou deixar a vida me levar
+Pra onde ela quiser
+Seguir a direção
+De uma estrela qualquer
+Não quero hora pra voltar não
+Conheço bem a solidão me solta
+E deixa a sorte me buscar
+
+Eu já estou na sua estrada
+Sozinho na enxergo nada
+Mas vou ficar aqui
+Até que o dia amanheça
+Vou me esquecer de mim
+E você se puder nâo se esqueça
+
+Vou deixar o coração bater
+Na madrugada sem fim
+Deixar o sol te ver
+Ajoelhada por mim sim
+Não tenho hora pra voltar não
+Eu agradeço tanto a sua escolta
+Mas deixa a noite terminar
+
+Não, não, não quero hora pra voltar, não
+Conheço bem a solidão me solta
+E deixa a sorte me buscar
+Não, não, não tenho hora pra voltar, não
+Eu agradeço tanto a sua escolta
+Mas deixa a noite terminar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Três Lados</nome>
+                <sample>skank_05_TresLados.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Frege, Sam Music
+                </autor>
+                <original>Originalmente gravada em 2000 no CD Maquinarama</original>
+                <letra>
+Escutei alguém abrir os portões
+Encontrei no coração multidões
+Meu desejo e meu destino brigaram como irmãos
+E a manhã semeará outros grãos
+
+Você estava longe, então
+Por que voltou
+Com olhos de verão
+Que não vão entender?
+
+E quanto a mim, te quero sim
+Vem dizer que você não sabe
+E quanto a mim, não é o fim
+Nem há razão pra que um dia acabe
+
+Cada um terá razões ou arpões
+Dediquei-me às suas contradições, fissões, confusões
+Meu desejo, seu bom senso, raivosos feito cães
+E a manhã nos proverá outros pães
+
+Os deuses vendem quando dão
+Melhor saber
+Seus olhos de verão
+Que não vão nem lembrar
+
+E quanto a mim, te quero, sim
+Vem dizer que você não sabe
+E quanto a mim, não é o fim
+Nem há razão pra que um dia acabe
+
+Somos dois contra a parede e tudo tem três lados
+E a noite arremessará outros dados
+Os deuses vendem quando dão
+Melhor saber
+Seus olhos de verão
+Que não vão nem lembrar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Te Ver</nome>
+                <sample>skank_06_TeVer.mp3</sample>
+                <autor>
+(Samuel Rosa, Lelo Zanetti, Chico Amaral)
+Sony ATV
+                </autor>
+                <original>Originalmente gravada em 1994 no CD Calango</original>
+                <letra>
+Te ver e não te querer
+É improvável, é impossível
+Te ter e ter que esquecer
+É insuportável, é dor incrível
+
+É como mergulhar num rio e não se molhar
+É como não morrer de frio no gelo polar
+É ter o estômago vazio e não almoçar
+É ver o céu se abrir no estilo e não se animar
+
+Te ver e não te querer
+É improvável, é impossível
+Te ter e ter que esquecer
+É insuportável, é dor incrível
+
+É como esperar o prato e não salivar
+Sentir apertar o sapato e não descalçar
+É ver alguém feliz de fato sem alguém pra amar
+É como procurar no mato estrela do mar
+
+É como não sentir calor em Cuiabá
+Ou como ir ao Arpoador não ver o mar
+É como não morrer de raiva com a política
+Ignorar que a tarde vai vadia e mítica
+
+É como ver televisão e não dormir
+Ver um bichano pelo chão e não sorrir
+É como não provar o nectar de um lindo amor
+Depois que o coração detecta a mais fina flor
+
+Te ver e não te querer
+É improvável, é impossível
+Te ter e ter que esquecer
+É insuportável, é dor incrível
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Ainda Gosto Dela</nome>
+                <sample>skank_07_AindaGostoDela.mp3</sample>
+                <autor>
+(Samuel Rosa, Nando Reis)
+Sam Music, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2008 no CD Estandarte</original>
+                <letra>
+Hoje acordei sem lembrar
+Se vivi ou se sonhei
+Você aqui neste lugar
+Que eu ainda não deixei
+
+Vou ficar
+Quanto tempo vou esperar?
+E eu não sei o que eu vou fazer, não
+
+Nem precisei revelar
+Sua foto não tirei
+Como tirei pra dançar
+Alguém que avistei
+
+Tempo atrás
+Este tempo está lá atrás
+E eu não tenho mais o que fazer, não
+
+E eu ainda gosto dela
+Mas ela já não gosta tanto assim
+A porta ainda está aberta
+Mas da janela já não entra luz
+E eu ainda penso nela
+Mas ela já não pensa mais em mim, em mim, não
+
+Ainda vejo o luar
+Refletido na areia
+Aqui na frente deste mar
+Sua boca eu beijei
+
+Vou ficar
+Só com ela eu quis, quis ficar
+E agora ela me deixou
+
+E eu ainda gosto dela
+Mas ela já não gosta tanto assim
+A porta ainda está aberta
+Mas da janela já não entra luz
+E eu ainda penso nela
+Mas ela já não pensa mais em mim
+Eu vou deixar a porta aberta
+Pra que ela entre e traga a sua luz
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Garota Nacional</nome>
+                <sample>skank_08_GarotaNacional.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Frege, Sam Music 
+                </autor>
+                <original>Originalmente gravada em 1996 no CD O Samba Poconé</original>
+                <letra>
+Aqui nesse mundinho fechado ela é incrível
+Com seu vestidinho preto indefectível
+Eu detesto o jeito dela, mas pensando bem
+Ela fecha com meus sonhos como ninguém
+
+Beat it laun, daun daun
+Beat it, loom, dap'n daun
+Beat it laun, baun baun
+Beat it laun, daun daun
+Beat it, loom, dap'n daun
+Beat it laun, baun baun
+
+Conhece-te a ti mesmo e eu me conheço bem
+Sou um qualquer vulgar,
+bem, às vezes me esqueço
+E finjo que não finjo, ao ignorar eu sei
+Que ela me domina no primeiro olhar
+
+Eu quero te provar
+Sem medo e sem amor
+Quero te provar
+Por quê?
+
+Porque ela derrama um banquete, um palacete
+Um anjo de vestido, uma libido do cacete
+Ela é tão vistosa que talvez seja mentira
+Quem dera minha cara fosse de sucupira
+
+Eu quero te provar
+Sem medo e sem amor
+Eu quero te provar
+Eu quero te provar
+Cozida a vapor
+Eu quero te provar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Jackie Tequila</nome>
+                <sample>skank_09_JackieTequila.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Sony ATV
+                </autor>
+                <original>Originalmente gravada em 1994 no CD Calango</original>
+                <letra>
+Funk lá no morro da Mangueira
+Essa menina tá dizendo, sim eu sei
+Noite bamba, tudo à beça
+Bailão na rampa do Cruzeiro
+Essa menina tá dizendo don't worry
+Cause everything is gonna be alright
+Everything, every tune will be played by night
+
+Seu nome é Jackie, Jackie,
+Tequila
+Seu nome é Jaqueline Misty
+Tequila
+
+Reggae lá no rádio do café
+Rapaziada que estiver afim vai lá
+Eu vou ficar com Jackie
+Se é que Jackie vai pra lá
+E se não for, já foi
+O bonde do desejo segue rumo
+Caixa, bumbo e sexo
+Saudade na rampa do mundo
+
+Seu nome é Jackie, Jackie,
+Tequila
+Seu nome é Jaqueline Misty
+Tequila
+
+Jackie foi nascer numa cabana em Noa Noa
+Sol do Taiti na pele, nowboah
+Seu pai cruzou o mar, duas filhas na canoa
+Côco pra beber e leite de leoa
+Jackie é uma menina tão bonita que enjoa
+Enjôo de vertigem, viagem de avião
+Hálito de virgem, dois olhos de amêndoa
+Vaca, cadela, macaca, gazela
+Linda toda, toda linda ela
+Toda beleza se reconhece nela
+Jackie Tequila coca-cola e água
+Égua, língua, mingua minha mágoa
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Macaco Prego</nome>
+                <sample>skank_10_MacacoPrego.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Sony ATV
+                </autor>
+                <original>Originalmente gravada em 1993 no CD Skank</original>
+                <letra>
+Eu sou macaco prego
+O bicho mais bonito do terreiro
+Só não vê quem é cego
+Eu gosto de mim mesmo o tempo inteiro
+Eu sou macaco prego
+Custei pra dar um jeito no cabelo
+Cuidado que eu te pego
+Não vem passando o dedo no meu pêlo
+O sol do meio dia é um chicote
+Eu tenho algum trabalho pra fazer
+Outro macaco entrou no meu caixote
+Vou lá botar o mico pra correr
+Eu sou macaco prego
+O boy qe tá com ela é um martelo
+Se gosto, me esfrego
+Quem manda ter
+Um corpo assim tão belo
+Recato em macaco é bobagem
+Não poderia ser de outra maneira
+Receba essa singela homenagem
+Oh dama de ondulante cabeleira
+Eu sou macaco prego
+Eu vivo e não me entrego
+Não peço e não delego - satisfação
+Eu sou macaco prego
+Eu vivo e não me entrego
+Não peço e não delego
+Please to meet you
+Sou macaco prego
+Eu sou macaco prego Sou macaco prego
+Sou macaco e não nego 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Tão Seu</nome>
+                <sample>skank_11_TaoSeu.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral)
+Frege, Sam Music
+                </autor>
+                <original>Originalmente gravada em 1996 no CD O Samba Poconé</original>
+                <letra>
+Eu sinto sua falta
+Não posso esperar tanto tempo assim
+O nosso amor é novo
+É o velho amor ainda e sempre
+
+Não diga que não vem me ver
+De noite eu quero descansar
+Ir ao cinema com você
+Um filme à toa no Pathé
+
+Que culpa a gente tem de ser feliz
+Que culpa a gente tem, meu bem
+O mundo bem diante do nariz
+Feliz aqui e não além
+
+Me sinto só, me sinto só, me sinto tão seu
+Me sinto tão, me sinto só e sou teu
+
+Eu faço tanta coisa
+Pensando no momento de te ver
+A minha casa sem você é triste
+E a espera arde sem me aquecer
+
+Não diga que você não volta
+Eu não vou conseguir dormir
+À noite eu quero descansar
+Sair à toa por aí
+
+Me sinto só, me sinto só, me sinto tão seu
+Me sinto tão, me sinto só e sou teu 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Balada do Amor Inabalável</nome>
+                <sample>skank_12_BaladaDoAmorInabalavel.mp3</sample>
+                <autor>
+(Herbert Vianna, Paulo Sérgio Valle)
+Tapajós (EMI) 
+                </autor>
+                <original>Originalmente gravada em 2000 no CD Maquinarama</original>
+                <letra>
+Leva essa canção de amor dançante pra você lembrar de mim
+Seu coração lembrar de mim
+Na confusão do dia-a-dia no sufoco de uma dúvida
+Na dor de qualquer coisa
+É só tocar essa balada de swing inabalável que é o oásis do amor
+Eu vou dizendo na sequência bem clichê
+Eu preciso de você
+
+Pa-nan-nan...
+
+E' forca antiga do espírito virando convivência de amizade apaixonada
+Sonho, sexo, paixão
+Vontade gêmea de ficar e não pensar em nada
+Planejando pra fazer acontecer ou simplesmente refinando essa amizade
+Eu vou dizendo na sequência bem clichê
+Eu preciso de você
+
+Mesmo que a gente se separe por uns tempos ou quando você quiser lembrar de mim
+Toque a balada do amor inabalável
+Swing de amor nesse planeta
+Mesmo que a gente se separe por uns tempos ou quando você quiser lembrar de mim
+Toque a balada seja antes ou depois
+Eterna Love Song de nós dois
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>titas</id>
+		<titulo>TITÃS</titulo>
+		<cor>
+			<bg>716558</bg>
+			<fg>f5882b</fg>
+			<icon>229a54</icon>
+			<out>716558</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Cabeça Dinossauro</nome>
+                <sample>titas_01_CabecaDinosauro.mp3</sample>
+                <autor>
+(Arnaldo Antunes, Paulo Miklos, Branco Mello)
+Warner Chappell, Rosa Celeste
+                </autor>
+                <original>Originalmente gravada em 1996 no CD Cabeça Dinossauro</original>
+                <letra>
+Cabeça dinossauro
+Cabeça dinossauro
+Cabeça cabeça
+Cabeça dinossauro
+
+Pança de mamute
+Pança de mamute
+Pança pança
+Pança de mamute
+
+Espírito de porco
+Espírito de porco
+Espírito de porco 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Epitáfio</nome>
+                <sample>titas_02_Epitafio.mp3</sample>
+                <autor>
+(Sergio Britto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2001 no CD A Melhor Banda de Todos Os Tempo da Última Semana</original>
+                <letra>
+Devia ter amado mais
+Ter chorado mais
+Ter visto o sol nascer
+Devia ter arriscado mais
+E até errado mais
+Ter feito o que eu queria fazer
+
+Queria ter aceitado
+As pessoas como elas são
+Cada um sabe a alegria
+E a dor que traz no coração
+
+O acaso vai me proteger
+Enquanto eu andar distraído
+O acaso vai me proteger
+Enquanto eu andar
+
+Devia ter complicado menos
+Trabalhado menos
+Ter visto o sol se pôr
+Devia ter me importado menos
+Com problemas pequenos
+Ter morrido de amor
+
+Queria ter aceitado
+A vida como ela é
+A cada um cabe alegrias
+E a tristeza que vier
+
+Devia ter complicado menos
+Trabalhado menos
+Ter visto o sol se pôr 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Os Cegos do Castelo</nome>
+                <sample>titas_03_OsCegosDoCastelo.mp3</sample>
+                <autor>
+(Nando Reis)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1997 no CD Acústico MTV</original>
+                <letra>
+Eu não quero mais mentir
+Usar espinhos que só causam dor
+Eu não enxergo mais o inferno que me atraiu
+Dos cegos do castelo me despeço e vou
+A pé até encontrar
+Um caminho, o lugar
+Pro que eu sou
+
+Eu não quero mais dormir
+De olhos abertos me esquenta o sol
+Eu não espero que um revólver venha explodir
+Na minha testa se anunciou
+A pé a fé devagar
+Foge o destino do azar
+Que restou
+
+E se você puder me olhar
+E se você quiser me achar
+E se você trouxer o seu lar
+Eu vou cuidar, eu cuidarei dele
+Eu vou cuidar
+Do seu jardim
+Eu vou cuidar, eu cuidarei muito bem dele
+Eu vou cuidar
+Eu cuidarei do seu jantar
+Do céu e do mar, e de você e de mim 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Família</nome>
+                <sample>titas_04_Familia.mp3</sample>
+                <autor>
+(Nando Reis)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1986 no CD Cabeça Dinossauro</original>
+                <letra>
+Família! Família!
+Papai, mamãe, titia
+Família! Família!
+Almoça junto todo dia
+Nunca perde essa mania
+
+Mas quando a filha
+Quer fugir de casa
+Precisa descolar um ganha-pão
+Filha de família se não casa
+Papai, mamãe
+Não dão nem um tostão
+
+Família êh! Família ah!
+Família!
+Família êh! Família ah!
+Família!
+
+Família! Família!
+Vovô, vovó, sobrinha
+Família! Família!
+Janta junto todo dia
+Nunca perde essa mania
+
+Mas quando o neném
+Fica doente
+Uô! Uô!
+Procura uma farmácia de plantão
+O choro do neném é estridente
+Uô! Uô!
+Assim não dá pra ver televisão
+
+Família êh! Família ah!
+Família!
+Família êh! Família ah!
+Família!
+
+Família! Família!
+Cachorro, gato, galinha
+Família! Família!
+Vive junto todo dia
+Nunca perde essa mania
+
+A mãe morre de medo de barata
+Uô! Uô!
+O pai vive com medo de ladrão
+Jogaram inseticida pela casa
+Uô! Uô!
+Botaram cadeado no portão
+
+Família êh! Família ah!
+Família!
+Família êh! Familia ah!
+Família!
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Go Back</nome>
+                <sample>titas_05_GoBack.mp3</sample>
+                <autor>
+(Sérgio Britto, Torquato Netto)
+Sony ATV, Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1988 no CD Go Back</original>
+                <letra>
+Você me chama
+Eu quero ir pro cinema
+Você reclama
+Meu coração não contenta
+Você me ama
+Mas de repente
+A madrugada mudou
+E certamente
+Aquele trem já passou
+Se passou, passou
+Daqui pra melhor
+Foi!
+
+Só quero saber
+Do que pode dar certo
+Não tenho tempo a perder
+Só quero saber
+Do que pode dar certo
+Não tenho tempo a perder...(2x)
+
+-"Não é o meu país
+É uma sombra que pende
+Concreta
+Do meu nariz em linha reta
+Não é minha cidade
+É um sistema que invento
+Me transforma
+E que acrescento
+À minha idade
+Nem é o nosso amor
+É a memória que suja
+A história que enferruja
+O que passou
+Não é você
+Nem sou mais eu
+Adeus meu bem
+Adeus! Adeus!
+Você mudou, mudei também
+Adeus amor! Adeus!
+E vem!" 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pra Dizer Adeus</nome>
+                <sample>titas_06_PraDizerAdeus.mp3</sample>
+                <autor>
+(Nando Reis, Toni Belotto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1985 no CD Televisão</original>
+                <letra>
+Você apareceu do nada
+E você mexeu demais comigo
+Não quero ser só mais um amigo
+Você nunca me viu sozinho
+E você nunca me ouviu chorar
+Não dá pra imaginar quando
+É cedo ou tarde demais
+Pra dizer adeus
+Pra dizer jamais
+
+Às vezes fico assim pensando
+Essa distância é tão ruim
+Por que você não vem pra mim?
+Eu já fiquei tão mal sozinho
+Eu já tentei, eu quis chamar
+Não dá pra imaginar quando
+É cedo ou tarde demais
+Pra dizer adeus
+Pra dizer jamais 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Comida</nome>
+                <sample>titas_07_Comida.mp3</sample>
+                <autor>
+(Marcelo Fromer, Sérgio Britto, Arnaldo Antunes)
+Warner Chappell, Rosa Celeste
+                </autor>
+                <original>Originalmente gravada em 1987 no CD Jesus Não Tem Dentes No País dos Banguelas</original>
+                <letra>
+Bebida é água!
+Comida é pasto!
+Você tem sede de quê?
+Você tem fome de quê?
+
+A gente não quer só comida
+A gente quer comida
+Diversão e arte
+A gente não quer só comida
+A gente quer saída
+Para qualquer parte
+
+A gente não quer só comida
+A gente quer bebida
+Diversão, balé
+A gente não quer só comida
+A gente quer a vida
+Como a vida quer
+
+Bebida é água!
+Comida é pasto!
+Você tem sede de quê?
+Você tem fome de quê?
+
+A gente não quer só comer
+A gente quer comer
+E quer fazer amor
+A gente não quer só comer
+A gente quer prazer
+Pra aliviar a dor
+
+A gente não quer só dinheiro
+A gente quer dinheiro e felicidade
+A gente não quer só dinheiro
+A gente quer inteiro
+E não pela metade
+
+Diversão e arte
+Para qualquer parte
+Diversão, balé
+Como a vida quer
+Desejo, necessidade, vontade
+Necessidade, desejo, eh!
+Necessidade, vontade, eh!
+Necessidade 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Sonífera Ilha</nome>
+                <sample>titas_08_SoniferaIlha.mp3</sample>
+                <autor>
+(Ciro Pessoa, Carlos Barmak, Marcelo Fromer, Toni Belotto, Branco Mello)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1984 no CD Titãs</original>
+                <letra>
+Não posso mais viver assim
+Ao seu ladinho
+Por isso colo o meu ouvido
+No radinho de pilha
+Prá te sintonizar
+Sozinha, numa ilha...
+
+Sonífera Ilha!
+Descansa meus olhos
+Sossega minha boca
+Me enche de luz
+Sonífera Ilha!
+Descansa meus olhos
+Sossega minha boca
+Me enche de luz... 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Enquanto Houver Sol</nome>
+                <sample>titas_09_EnquantoHouverSol.mp3</sample>
+                <autor>
+(Sérgio Britto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2003 no CD Como Estão Vocês?</original>
+                <letra>
+Quando não houver saída
+Quando não houver mais solução
+Ainda há de haver saída
+Nenhuma ideia vale uma vida
+
+Quando não houver esperança
+Quando não restar nem ilusão
+Ainda há de haver esperança
+Em cada um de nós
+Algo de uma criança
+
+Enquanto houver sol
+Enquanto houver sol
+Ainda haverá
+Enquanto houver sol
+Enquanto houver sol
+
+Quando não houver caminho
+Mesmo sem amor, sem direção
+A sós ninguém está sozinho
+É caminhando
+Que se faz o caminho
+
+Quando não houver desejo
+Quando não restar nem mesmo dor
+Ainda há de haver desejo
+Em cada um de nós
+Aonde Deus colocou
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Domingo</nome>
+                <sample>titas_10_Domingo.mp3</sample>
+                <autor>
+(Sérgio Britto, Toni Belotto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1995 no CD Domingo</original>
+                <letra>
+Não sei o que fazer
+Não sei o que fazer
+Eu saio por aí
+Sem ter aonde ir
+
+Não é sete de setembro
+Nem dia de finados
+Não é sexta-feira santa
+Nem um outro feriado
+
+E antes que eu esqueça aonde estou
+Antes que eu esqueça aonde estou
+Aonde estou com a cabeça?
+
+Tudo está fechado
+Tudo está fechado
+Domingo é sempre assim
+E quem não está acostumado?
+
+É dia de descanso
+Nem precisava tanto
+É dia de descanso
+Programa Sílvio Santos
+
+E antes que eu confunda o domingo
+Antes que eu confunda o domingo
+O domingo com a segunda
+
+Domingo eu quero ver o domingo passar
+Domingo eu quero ver o domingo acabar
+Domingo eu quero ver o domingo passar
+Domingo eu quero ver o domingo acabar
+
+Até o próximo, até o próximo, até o próximo domingo
+Até o próximo, até o próximo, até o próximo domingo 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Flores</nome>
+                <sample>titas_11_Flores.mp3</sample>
+                <autor>
+(Sérgio Britto, Paulo Miklos, Charles Gavin, Toni Belotto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 1989 no CD Õ Blésq Blom</original>
+                <letra>
+Olhei até ficar cansado
+De ver os meus olhos no espelho
+Chorei por ter despedaçado
+As flores que estão no canteiro
+
+Os punhos e os pulsos cortados
+E o resto do meu corpo inteiro
+Há flores cobrindo o telhado
+E embaixo do meu travesseiro
+Há flores por todos os lados
+Há flores em tudo que eu vejo
+
+A dor vai curar essas lástimas
+O soro tem gosto de lágrimas
+As flores têm cheiro de morte
+A dor vai fechar esses cortes
+Flores
+Flores
+As flores de plástico não morrem 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Porque Eu Sei Que É Amor</nome>
+                <sample>titas_12_PorqueEuSeiQueEAmor.mp3</sample>
+                <autor>
+(Paulo Miklos, Sérgio Britto)
+Warner Chappell
+                </autor>
+                <original>Originalmente gravada em 2009 no CD Sacos Plásticos </original>
+                <letra>
+Porque eu sei que é amor
+Eu não peço nada em troca
+Porque eu sei que é amor
+Eu não peço nenhuma prova
+
+Mesmo que você não esteja aqui
+O amor está aqui agora
+Mesmo que você tenha que partir
+O amor não há de ir embora
+
+Eu sei que é pra sempre
+Enquanto durar
+Eu peço somente
+O que eu puder dar
+
+Eu sei que é pra sempre
+Enquanto durar
+Eu peço somente
+O que eu puder dar
+
+Porque eu sei que é amor
+Sei que cada palavra importa
+Porque eu sei que é amor
+Sei que só há uma resposta
+
+Mesmo sem porquê eu te trago aqui
+O amor está aqui comigo
+Mesmo sem porquê eu te levo assim
+O amor está em mim mais vivo
+
+Eu sei que é pra sempre
+Enquanto durar
+Eu peço somente
+O que eu puder dar
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>ryb1</id>
+		<titulo>O MELHOR DO ROCK BRASILEIRO - VOLUME 1</titulo>
+		<cor>
+			<bg>f1613a</bg>
+			<fg>1b75bc</fg>
+			<icon>f8dc7e</icon>
+			<out>f1613a</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Pais e Filhos (Legião Urbana)</nome>
+                <sample>ryb1_01_PaisEFilhos.mp3</sample>
+                <autor>
+(Renato Russo, Dado Villa-Lobos, Marcelo Bonfá)
+Corações Perfeitos [Tapajós(EMI)], Legião Urbana Produções
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Estátuas e cofres
+E paredes pintadas
+Ninguém sabe o que aconteceu
+Ela se jogou da janela do quinto andar
+Nada fácil de entender
+
+Dorme agora
+É só o vento lá fora
+Quero colo
+Vou fugir de casa
+Posso dormir aqui
+Com vocês?
+Estou com medo tive um pesadelo
+Só vou voltar depois das três
+
+Meu filho vai ter
+Nome de santo
+Quero o nome mais bonito
+
+É preciso amar as pessoas
+Como se não houvesse amanhã
+Por que se você parar pra pensar
+Na verdade não há 
+
+Me diz por que o céu é azul
+Explica a grande fúria do mundo
+São meus filhos que tomam conta de mim
+
+Eu moro com a minha mãe
+Mas meu pai vem me visitar
+Eu moro na rua não tenho ninguém
+Eu moro em qualquer lugar
+Já morei em tanta casa 
+que nem me lembro mais
+Eu moro com os meus pais
+
+É preciso amar as pessoas
+Como se não houvesse amanhã
+Por que se você parar pra pensar
+Na verdade não há
+
+Sou uma gota d’água
+Sou um grão de areia
+Você me diz que seus pais
+Não lhe entendem
+Mas você não entende seus pais
+
+Você culpa seus pais por tudo
+Isso é um absurdo
+São crianças como você
+O que você vai ser
+Quando você crescer?
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Antes Que Seja Tarde (Pato Fu)</nome>
+                <sample>ryb1_02_AntesQueSejaTarde.mp3</sample>
+                <autor>
+(Fernanda Takai, John, Tarcísio Moura)
+Rotomusic Produções
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Olha, não sou daqui
+Me diga onde estou
+Não há tempo, não há nada
+Que me faça ser quem sou
+Mas sem parar pra pensar
+Sigo estradas, sigo pistas pra me achar
+
+Nunca sei o que se passa
+Com as manias do lugar
+Porque sempre parto antes
+Que comece a gostar
+De ser igual, qualquer um
+Me sentir mais uma peça no final
+Cometendo um erro bobo, decimal
+
+Na verdade continuo sob a mesma condição
+Distraindo a verdade, enganando o coração
+
+Pelas minhas trilhas você perde a direção
+Não há placa nem pessoas
+Informando aonde vão
+Penso outra vez estou sem meus amigos
+E retomo a porta aberta dos perigos
+
+Na verdade continuo sob a mesma condição
+Distraindo a verdade, enganando o coração
+Na verdade continuo sob a mesma condição
+Distraindo a verdade, enganando o coração
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Cuide Bem do Seu Amor (Paralamas do Sucesso)</nome>
+                <sample>ryb1_03_CuideBemDoSeuAmor.mp3</sample>
+                <autor>
+(Hebert Vianna)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+A vida sem freio
+Me leva, me arrasta, me cega
+No momento em que eu queria ver
+O segundo que antecede o beijo
+A palavra que destrói o amor
+Quando tudo ainda estava inteiro
+No instante em que desmoronou
+Palavras duras em voz de veludo
+E tudo muda, adeus velho mundo
+A um segundo tudo estava em paz
+
+Cuide bem do seu amor
+Seja quem for 
+
+E cada segundo
+Cada momento, cada instante
+É quase eterno, passa devagar
+Se o seu mundo for o mundo inteiro
+Sua vida, seu amor, seu lar
+Cuide de tudo que for verdadeiro
+Deixe tudo que não for passar
+Palavras duras em voz de veludo
+E tudo muda, adeus velho mundo
+A um segundo tudo estava em paz
+
+Cuide bem do seu amor
+Seja quem for 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Tédio (Biquini Cavadão)</nome>
+                <sample>ryb1_04_Tedio.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik)
+Univesal Music Publishing
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Sabe esses dias
+Em que horas dizem nada
+E você nem troca o pijama
+Preferia estar na cama
+Um dia, a monotonia
+Tomou conta de mim
+É o tédio
+Cortando os meus programas
+Esperando o meu fim
+
+Sentado no meu quarto
+O tempo voa
+Lá fora a vida passa
+E eu aqui à toa
+Eu já tentei de tudo
+Mas não tenho remédio
+Pra livrar-me desse tédio
+
+Vejo um programa
+Que não me satisfaz
+Leio o jornal que é de ontem
+Pois pra mim, tanto faz
+
+Já tive esse problema
+Sei que o tédio
+É sempre assim
+Se tudo piorar
+Não sei do que sou capaz
+
+Tédio
+Não tenho um programa
+Tédio
+Esse é o meu drama
+O que corrói é o tédio
+Um dia eu fico sério
+Me atiro deste prédio
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Garotos II - O Outro Lado (Leoni)</nome>
+                <sample>ryb1_05_GarotosII.mp3</sample>
+                <autor>
+(Leoni)
+Peermusic do Brasil
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Seus olhos e seus olhares
+Milhares de tentações
+Meninas são tão mulheres
+Seus truques e confusões
+Se espalham pelos pelos
+Boca e cabelo
+Peitos e poses e apelos
+Me agarram pelas pernas
+Certas mulheres como você
+Me levam sempre onde querem
+
+Garotos não resistem
+Aos seus mistérios
+Garotos nunca dizem não
+Garotos como eu
+Sempre tão espertos
+Perto de uma mulher
+São só garotos
+
+Seus dentes e seus sorrisos
+Mastigam meu corpo e juízo
+Devoram os meus sentidos
+Eu já não me importo comigo
+Então são mãos e braços
+Beijos e abraços
+Pele, barriga e seus laços
+São armadilhas
+E eu não sei o que faço
+Aqui de palhaço
+Seguindo seus passos
+
+Garotos não resistem
+Aos seus mistérios
+Garotos nunca dizem não
+Garotos como eu sempre tão espertos
+Perto de uma mulher
+São só garotos, são só garotos
+
+Se espalham pelos pelos
+Boca e cabelo
+Peitos e poses e apelos
+Me agarram pelas pernas
+Certas mulheres como você
+Me levam sempre onde querem
+
+Garotos não resistem
+Aos seus mistérios
+Garotos nunca dizem não
+Garotos como eu
+Sempre tão espertos
+Perto de uma mulher
+Garotos não resistem
+Aos seus mistérios
+Garotos nunca dizem não
+Garotos como eu
+Sempre tão espertos
+Perto de uma mulher
+São só garotos
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Te Levar (Charlie Brown Jr.)</nome>
+                <sample>ryb1_06_TeLevarDaqui.mp3</sample>
+                <autor>
+(Chorão, Champignon, Marcão, Pelado, Thiago)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Tive pensando em me mudar
+Sem te deixar pra trás
+Resolvi pensar em nós
+Vou te levar daqui
+Vou te levar
+Te levar daqui
+Vou te levar
+Te levar daqui
+
+Aquele tempo ficou pra trás
+Eu nunca fui feliz ali
+Resolvi pensar em nós
+Vou te levar daqui
+Vou te levar
+Te levar daqui
+Vou te levar
+Te levar daqui
+
+Mantenho a história de luz de glória
+Mas se eu te contar o que eu passei por lá
+Mas eu ainda fico impressionado 
+Com as coisas da cidade
+Aqueles mano se foram 
+Chegaram antes se foram
+Pra onde foram, ninguém sabe, ninguém faz
+Anos e anos da correria faz leva e traz
+Anos e anos da correria faz leva e traz
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Até Quando Esperar (Plebe Rude)</nome>
+                <sample>ryb1_07_AteQuandoEsperar.mp3</sample>
+                <autor>
+(André X, Philippe Seabra, Gutje)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Não é nossa culpa
+Nascemos já com uma bênção
+Mas isso não é desculpa
+Pela má distribuição
+
+Com tanta riqueza por aí
+Onde é que está, cadê sua fração?
+Com tanta riqueza por aí
+Onde é que está, cadê sua fração?
+Até quando esperar?
+
+E cadê a esmola
+Que nós damos sem perceber
+Que aquele abençoado
+Poderia ter sido você
+
+Com tanta riqueza por aí
+Onde é que está, cadê sua fração?
+Com tanta riqueza por aí
+Onde é que está, cadê sua fração?
+
+Até quando esperar?
+A plebe ajoelhar,
+Esperando a ajuda de Deus?
+Até quando esperar?
+A plebe ajoelhar,
+Esperando a ajuda de Deus?
+
+Posso, vigiar teu carro, te pedir trocados, Engraxar seus sapatos?
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>A Dois Passos do Paraíso (Blitz)</nome>
+                <sample>ryb1_08_ADoisPassosDoParaiso.mp3</sample>
+                <autor>
+(Evandro Mesquita, Ricardo Barreto)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Longe de casa
+Há mais de uma semana
+Milhas e milhas distante
+Do meu amor
+Será que ela está me esperando
+Eu fico aqui sonhando
+Voando alto
+Ou perto do céu
+
+Eu saio de noite
+Andando sozinho
+Eu vou entrando em qualquer bar
+Eu faço meu caminho
+
+O rádio toca uma canção
+Que me faz lembrar você
+Eu fico louco de emoção
+E já não sei o que vou fazer
+
+Estou a dois passos do paraíso
+Não sei se vou voltar
+Estou a dois passos do paraíso
+Talvez eu fique, eu fique por lá
+Estou a dois passos do paraíso
+Não sei por que eu fui dizer bye bye
+
+Bye bye
+Baby, bye bye
+
+A Rádio Atividade leva até vocês
+Mais um programa da séria série
+“Dedique uma canção a quem você ama”
+Eu tenho aqui em minhas mãos uma carta, 
+Uma carta de uma ouvinte que nos escreve 
+E assina com o singelo pseudônimo
+De “Mariposa apaixonada de Guadalupe”
+Ela nos conta que no dia que seria
+O dia do dia mais feliz de sua vida
+Arlindo Orlando, seu noivo
+Um caminhoneiro conhecido de pequena
+E pacata cidade de Miracema do Norte, 
+Fugiu, desapareceu, escafedeu-se
+Oh! Arlindo Orlando, volte! 
+Onde quer que você se encontre 
+Volte para o seio de sua amada
+Ela espera ver aquele caminhão voltando 
+De faróis baixos, e para-choque duro
+
+Agora uma canção
+Canta pra mim,
+Eu não quero ver você triste assim
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>A Fórmula do Amor (Léo Jaime)</nome>
+                <sample>ryb1_09_AFormulaDoAmor.mp3</sample>
+                <autor>
+(Leoni, Leo Jaime)
+Peermusic do Brasil, Rock Estrela (Copyrights)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Eu tenho o gesto exato, 
+Sei como devo andar
+Aprendi nos filmes pra um dia usar
+Um certo ar cruel de quem sabe o que quer
+Tenho tudo planejado pra te impressionar
+Luz de fim de tarde, 
+Meu rosto em contra-luz
+Não posso compreender 
+Não faz nenhum efeito
+A minha aparição
+Será que eu errei na mão
+As coisas são mais fáceis na televisão
+
+Mantenho o passo, alguém me vê
+Nada acontece, não sei porquê
+Se eu não perdi nenhum detalhe
+Onde foi que eu errei
+
+Ainda encontro a fórmula do amor
+
+Eu tenho a pose exata pra me fotografar
+Aprendi nos livros pra um dia usar
+Um certo ar cruel, de quem sabe o que quer
+Tenho tudo ensaiado pra te conquistar
+Eu tenho um bom papo e sei até dançar
+Não posso compreender 
+Não faz nenhum efeito
+A minha aparição
+Será que errei na mão
+As coisas são mais fáceis na televisão
+
+Eu jogo charme, alguém me vê
+Nada acontece, não sei porquê
+Se eu não perdi nenhum detalhe
+Onde foi que eu errei
+
+Ainda encontro a fórmula do amor
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Exagerado (Cazuza)</nome>
+                <sample>ryb1_10_Exagerado.mp3</sample>
+                <autor>
+(Leoni, Cazuza, Ezequiel Neves)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Amor da minha vida
+Daqui até a eternidade
+Nossos destinos foram traçados 
+Na maternidade
+
+Paixão cruel desenfreada
+Te trago mil rosas roubadas
+Pra desculpar minhas mentiras
+Minhas mancadas
+
+Exagerado
+Jogado aos teus pés
+Eu sou mesmo exagerado
+Adoro um amor inventado
+
+Eu nunca mais vou respirar
+Se você não me notar
+Eu posso até morrer de fome
+Se você não me amar
+
+E por você eu largo tudo
+Vou mendigar, roubar, matar
+Até nas coisas mais banais
+Pra mim é tudo ou nunca mais
+
+Exagerado
+Jogado aos teus pés
+Eu sou mesmo exagerado
+Adoro um amor inventado
+
+E por você eu largo tudo
+Carreira, dinheiro, canudo
+Até nas coisas mais banais
+Pra mim é tudo ou nunca mais
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Menino Bonito (Rita Lee)</nome>
+                <sample>ryb1_11_MeninoBonito.mp3</sample>
+                <autor>
+(Rita Lee)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Lindo
+E eu me sinto enfeitiçada
+Correndo perigo
+Seu olhar é simplesmente lindo
+
+Mas, também, não diz mais nada
+Menino bonito
+E então quero olhar você
+Depois ir embora
+
+Sem dizer o porquê
+Eu sou cigana
+Basta olhar pra você
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Um Minuto Para o Fim do Mundo (Cpm 22)</nome>
+                <sample>ryb1_12_UmMinutoParaOFimDoMundo.mp3</sample>
+                <autor>
+(Wally, Rodrigo Koala) 
+Midas (Universal Music Publishing)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Me sinto só
+Mas quem é que nunca se sentiu assim
+Procurando um caminho pra seguir
+Uma direção - respostas
+Um minuto para o fim do mundo
+Toda sua vida em 60 segundos
+Uma volta no ponteiro do relógio, pra viver
+
+O tempo corre contra mim, sempre foi assim e sempre vai ser
+Vivendo apenas pra vencer a falta que me faz você
+De olhos fechados eu tento esconder a dor agora
+Por favor entenda, eu preciso ir embora porque
+
+Quando estou com você
+Sinto meu mundo acabar
+Perco o chão sob os meus pés
+Me falta o ar pra respirar
+E só de pensar em te perder por um segundo
+Eu sei que isso é o fim do mundo
+
+Volto o relógio para trás tentando adiar o fim
+Tentando esconder o medo de te perder quando me sinto assim
+De olhos fechados eu tento enganar meu coração
+Fugir pra outro lugar em uma outra direção porque
+
+Quando estou com você
+Sinto meu mundo acabar
+Perco o chão sob os meus pés
+Me falta o ar pra respirar
+E só de pensar em te perder por um segundo
+Eu sei que isso é o fim do mundo
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>ryb2</id>
+		<titulo>O MELHOR DO ROCK BRASILEIRO - VOLUME 2</titulo>
+		<cor>
+			<bg>9bd098</bg>
+			<fg>fcf7b5</fg>
+			<icon>1b75bc</icon>
+			<out>9dbc47</out>
+			<letter>000000</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Primeiros Erros (Chove - Kiko Zambianchi)</nome>
+                <sample>ryb2_01_PrimeirosErros.mp3</sample>
+                <autor>
+(Kiko Zambianchi)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Meu caminho é cada manhã
+Não procure saber onde vou
+Meu destino não é de ninguém
+Eu não deixo os meus passos no chão
+Se você não entende, não vê
+Se não me vê, não entende
+Não procure saber onde estou
+Se o meu jeito te surpreende
+Se o meu corpo virasse sol
+Minha mente virasse sol
+Mas, só chove e chove
+Chove e chove
+
+Se um dia eu pudesse ver
+Meu passado inteiro
+E fizesse parar chover
+Nos primeiros erros
+O meu corpo viraria sol
+Minha mente viraria
+Mas, só chove e chove
+Chove e chove
+O meu corpo viraria sol
+Minha mente viraria
+Mas, só chove e chove
+Chove e chove 
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pelados em Santos (Mamonas Assassinas)</nome>
+                <sample>ryb2_02_PeladosEmSantos.mp3</sample>
+                <autor>
+(Dinho)
+Tapajós (EMI)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Mina,
+Seus cabelo é “da hora”
+Seu corpo é um violão
+Meu docinho de coco
+Tá me deixando louco
+
+Minha Brasília amarela
+Tá de portas abertas
+Pra mode a gente se amar
+Pelados em Santos
+
+Pois você é minha “Pitxula”
+Me deixa legalzão
+Não me sinto sozinho
+Você é meu chuchuzinho
+Music is very good (Oxente ai, ai, ai)
+
+Mas comigo ela não quer se casar
+Na Brasília amarela com roda gaúcha
+Ela não quer entrar
+Feijão com jabá
+A desgraçada não quer compartilhar
+Mas ela é linda
+Muito mais do que linda
+Very, very beautiful
+
+Você me deixa doidão
+Meu docinho de coco
+Music is very porreta (Oxente Paraguai)
+
+Pro Paraguai ela não quis viajar
+Comprei um Reebok e uma calça Fiorucci
+Ela não quer usar
+Eu não sei o que faço
+Pra essa mulher eu conquistar
+Por que ela é linda
+Muito mais do que linda
+Very, very beautiful
+
+Você me deixa doidão
+Meu chuchuzinho
+Eu te ai love iuuu
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Somos Quem Podemos Ser (Engenheiros do Hawaii)</nome>
+                <sample>ryb2_03_SomosQuemPodemosSer.mp3</sample>
+                <autor>
+(Gessinger)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Um dia me disseram
+Que as nuvens não eram de algodão
+Um dia me disseram
+Que os ventos às vezes erram a direção
+
+E tudo ficou tão claro
+Um intervalo na escuridão
+(Uma estrela de brilho raro
+Um disparo para um coração)
+
+A vida imita o vídeo
+Garotos inventam um novo inglês
+Vivendo num país sedento
+Um momento de embriaguez
+
+Somos quem podemos ser
+Sonhos que podemos ter
+
+Um dia me disseram
+Quem eram os donos da situação
+Sem querer eles me deram
+As chaves que abrem esta prisão
+
+E tudo ficou tão claro
+O que era raro ficou comum
+(Como um dia depois do outro
+Como um dia, um dia comum)
+
+A vida imita o vídeo
+Garotos inventam um novo inglês
+Vivendo num país sedento
+Um momento de embriaguez
+
+Somos quem podemos ser
+Sonhos que podemos ter
+
+Quem ocupa o trono tem culpa
+Quem oculta o crime também
+Quem duvida da vida tem culpa
+Quem evita a dúvida também tem
+
+Somos quem podemos ser
+Sonhos que podemos ter
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Uma Música (Fresno)</nome>
+                <sample>ryb2_04_UmaMusica.mp3</sample>
+                <autor>
+(Lucas Silveira)
+Universal Music Publishing 
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Apago as memórias que não vão voltar
+Esqueço as histórias pra quem vou contar
+Se aqui só você poderá me ouvir
+O rádio tocando, uma voz a cantar
+E eu só te olhando até você lembrar
+E você ouve a mesma canção que eu
+
+Eu só queria uma música
+Pra acabar com o silêncio que ficou entre nós dois
+Eu só queria uma música
+
+Eu sempre me lembro daquele verão
+Final de novembro e você ainda não 
+Sabia se gostava de mim
+O céu estrelado, uma noite normal
+Um beijo roubado, eu te dizendo tchau
+E você ouve a mesma canção que eu
+
+Eu só queria uma música
+Pra lembrar daquele dia 
+Que marcou para nós dois
+Eu só queria uma música
+
+Eu só queria uma música
+Pra dizer tudo que eu quero 
+Sem me arrepender depois
+Até faria uma música pra você e ninguém mais
+Pra gente viver em paz
+Acho que eu fiz uma música pra você
+Apago as memórias que não vão voltar
+Pra você...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Me Chama (Lobão e os Ronaldos)</nome>
+                <sample>ryb2_05_MeChama.mp3</sample>
+                <autor>
+(Lobão)
+Universal Music Publishing 
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Chove lá fora
+E aqui tá tanto frio
+Me dá vontade de saber
+Aonde está você?
+Me telefona
+Me Chama, Me Chama
+Me Chama
+
+Nem sempre se vê
+Lágrima no escuro
+Lágrima no escuro
+Lágrima
+
+Tá tudo cinza sem você
+Tá tão vazio
+E a noite fica
+Sem porque
+Aonde está você?
+Me telefona
+Me Chama, Me Chama
+Me Chama
+
+Nem sempre se vê
+Mágica do absurdo
+Mágica do absurdo 
+Mágica
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Equalize (Pitty)</nome>
+                <sample>ryb2_06_Equalize.mp3</sample>
+                <autor>
+(Pitty, Peu Souza)
+Deckdisc
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Às vezes se eu me distraio
+Se eu não me vigio um instante
+Me transporto pra perto de você
+Já vi que não posso ficar tão solta
+Me vem logo aquele cheiro
+Que passa de você pra mim
+Num fluxo perfeito
+
+Enquanto você conversa e me beija
+Ao mesmo tempo eu vejo
+As suas cores no seu olho, tão de perto
+Me balanço devagar
+Como quando você me embala
+O ritmo rola fácil
+Parece que foi ensaiado
+
+E eu acho que eu gosto mesmo de você 
+Bem do jeito que você é
+
+Eu vou equalizar você
+Numa frequência que só a gente sabe 
+Eu te transformei nessa canção
+Pra poder te gravar em mim
+Adoro essa sua cara de sono
+E o timbre da sua voz
+Que fica me dizendo coisas tão malucas
+E que quase me mata de rir
+Quando tenta me convencer
+Que eu só fiquei aqui
+Porque nós dois somos iguais
+
+Até parece que você já tinha
+O meu manual de instruções
+Porque você decifra os meus sonhos
+Porque você sabe o que eu gosto
+E porque quando você me abraça
+O mundo gira devagar
+
+E o tempo é só meu
+E ninguém registra a cena
+De repente vira um filme
+Todo em câmera lenta
+
+E eu acho que eu gosto mesmo de você
+Bem do jeito que você é
+
+Eu vou equalizar você
+Numa frequência que só a gente sabe
+Eu te transformei nessa canção
+Pra poder te gravar em mim
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Flores em Você (Ira!)</nome>
+                <sample>ryb2_07_FloresEmVoce.mp3</sample>
+                <autor>
+(Scandurra)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+De todo o meu passado
+Boas e más recordações
+Quero viver meu presente
+E lembrar tudo depois
+
+Nessa vida passageira
+Eu sou eu, você é você
+Isso é o que mais me agrada
+Isso é o que me faz dizer
+
+Que vejo flores em você
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Fogo (Capital Inicial)</nome>
+                <sample>ryb2_08_Fogo.mp3</sample>
+                <autor>
+(Dinho Ouro Preto, Bozo Barretti)
+Universal Music Publishing, Warner Chappell 
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Você é tão acostumada
+A sempre ter razão
+Você é tão articulada
+Quando fala não pede atenção
+O poder de dominar é tentador
+Eu já não sinto nada
+Sou todo torpor
+
+É tão certo quanto o calor do fogo
+É tão certo quanto o calor do fogo
+Eu já não tenho escolha
+E participo do seu jogo, eu participo
+
+Não consigo dizer se é bom ou mal
+Assim como o ar me parece vital
+Onde quer que eu vá e o que quer que eu faça
+Sem você não tem graça
+
+Você sempre surpreende
+E eu tento entender
+Você nunca se arrepende
+Você gosta e sente até prazer
+Mas se você me perguntar
+Eu digo sim, eu continuo
+Porque a chuva não cai
+Só sobre mim
+Vejo os outros
+Todos estão tentando
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Família (Titãs)</nome>
+                <sample>ryb2_09_Familia.mp3</sample>
+                <autor>
+(Arnaldo Antunes, Tony Bellotto)
+Rosa Celeste (Universal Music Publishing), Warner Chappell 
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Família, família
+Papai, mamãe, titia
+Família, família
+Almoça junto todo dia
+Nunca perde essa mania
+Mas quando a filha quer fugir de casa
+Precisa descolar um ganha-pão
+Filha de família se não casa
+Papai, mamãe, não dão nem um tostão
+
+Família ê
+Família a
+Família
+
+Família, família
+Vovô, vovó, sobrinha
+Família, família
+Janta junto todo dia
+Nunca perde essa mania
+Mas quando o nenê fica doente
+Procura uma farmácia de plantão
+O choro do nenê é estridente
+Assim não dá pra ver televisão
+
+Família ê
+Família a
+Família
+
+Família, família
+Cachorro, gato, galinha
+Família, família
+Vive junto todo dia
+Nunca perde essa mania
+A mãe morre de medo de barata
+O pai vive com medo de ladrão
+Jogaram inseticida pela casa
+Botaram cadeado no portão
+
+Família ê
+Família a
+Família
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Te Ver (Skank)</nome>
+                <sample>ryb2_10_TeVer.mp3</sample>
+                <autor>
+(Samuel Rosa, Chico Amaral, Lelo Zaneti)
+Sony Music/ATV
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Te ver e não te querer
+É improvável, é impossível
+Te ter e ter que esquecer
+É insuportável, é dor incrível
+
+É como mergulhar num rio
+E não se molhar
+É como não morrer de frio no gelo polar
+É ter o estômago vazio e não almoçar
+É ver o céu se abrir no estio
+E não animar
+
+Te ver e não te querer
+É improvável, é impossível
+Te ter e ter que esquecer
+É insuportável, é dor incrível
+
+É como esperar o prato e não salivar
+Sentir apertar o sapato e não descalçar
+É ver alguém feliz de fato
+Sem alguém pra amar
+É como procurar no mato estrela do mar
+
+É como não sentir calor em Cuiabá
+Ou como no Arpoador não ver o mar
+É como não morrer de raiva
+Com a política
+Ignorar que a tarde vai vadia e mítica
+
+É como ver televisão e não dormir
+Ver um bichano pelo chão e não sorrir
+E como não provar o néctar
+De um lindo amor
+Depois que o coração detecta 
+A mais fina flor
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Carimbador Maluco (Raul Seixas)</nome>
+                <sample>ryb2_11_OCarimbadorMaluco.mp3</sample>
+                <autor>
+(Raul Seixas)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Cinco, Quatro, Três, Dois...
+Parem! Espere aí!
+Onde é que vocês pensam que vão?
+Plunct-Plact-Zummm
+Não vai a lugar nenhum
+Plunct-Plact-Zummm
+Não vai a lugar nenhum
+
+Tem que ser selado, registrado,
+Carimbado, avaliado e rotulado
+Se quiser voar
+Pra lua: a taxa é alta
+Pro sol: identidade
+Mas, já pro seu foguete viajar pelo universo
+É preciso o meu carimbo dando
+Sim, sim, sim
+
+O seu Plunct-Plact-Zummm
+Não vai a lugar nenhum
+Plunct-Plact-Zummm
+Não vai a lugar nenhum
+
+Mas ora, vejam só
+Já estou gostando de vocês
+Aventura como essa
+Eu nunca experimentei
+O que eu queria mesmo era ir com vocês
+Mas já que eu não posso, boa viagem
+Até outra vez!
+
+Agora o Plunct-Plact-Zummm
+Pode partir sem problema algum
+Plunct-Plact-Zummm
+Pode partir sem problema algum
+Boa viagem, meninos
+Boa viagem
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Uma Barata Chamada Kafka</nome>
+                <sample>ryb2_12_UmaBarataChamadaKafka.mp3</sample>
+                <autor>
+(Marcelo Marques, Paulinho Moska, Luis Guilherme)
+Sony/ATV
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Encontrei uma barata na cozinha
+Eu olhei pra ela 
+Ela olhou pra mim 
+Ofereci a ela um pedaço de pudim 
+O curioso foi que ela
+
+Ela disse sim, vem cá ficar comigo
+Sim! Gosta de tudo que eu gosto
+Sim! Vem cá ficar comigo
+Sim! Vem, Kakfa
+
+Ofereci a ela um disco do Sex Pistols
+Ofereci a ela uma batida de limão
+Perguntei se ela gostava dos Beatles
+Perguntei se ela era de escorpião
+
+Ela disse sim, vem cá ficar comigo
+Sim! Gosta de tudo que eu gosto
+Sim! Vem cá ficar comigo
+Sim! Vem, Kakfa
+
+Você mora na Barata Ribeiro num edifício
+Que tem um buraco perto do chuveiro
+Já se drogou com detefon, insetizan, fumou baygon
+Tudo quanto é tipo de veneno você acha bom
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+	<cd>
+		<id>ryb3</id>
+		<titulo>O MELHOR DO ROCK BRASILEIRO - VOLUME 3</titulo>
+		<cor>
+			<bg>fdf7b4</bg>
+			<fg>1b75bc</fg>
+			<icon>f15b51</icon>
+			<out>000000</out>
+			<letter>ffffff</letter>
+		</cor>
+		<faixas>12</faixas>
+		<musicas>
+			<faixa>
+				<nome>Apenas Mais Uma de Amor (Lulu Santos)</nome>
+                <sample>ryb3_01_ApenasMaisUmaDeAmor.mp3</sample>
+                <autor>
+(Lulu Santos)
+Vibrato (Universal Music Publishing)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Eu gosto tanto de você
+Que até prefiro esconder
+Deixo assim ficar
+Subentendido
+
+Como uma idéia que existe na cabeça
+E não tem a menor obrigação de acontecer
+
+Eu acho tão bonito
+Isto de ser abstrato, baby
+A beleza é mesmo tão fugaz
+
+É uma idéia que existe na cabeça
+E não tem a menor pretensão de acontecer
+
+Pode até parecer fraqueza,
+Pois que seja fraqueza então,
+A alegria que me dá
+Isso vai sem eu dizer
+
+Se amanhã não for nada disso
+Caberá só a mim esquecer
+O que eu ganho, o que eu perco
+Ninguém precisa saber
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Fácil (Jota Quest)</nome>
+                <sample>ryb3_02_Facil.mp3</sample>
+                <autor>
+(Márcio Buzelin, Marco Túlio Lara, Paulinho Fonseca,
+Paulo Diniz, Rogério Flausino, Wilsinho Oliveira)
+Sony ATV
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Tudo é tão bom e azul
+E calmo como sempre
+Os olhos piscaram de repente
+Um sonho
+As coisas são assim
+Quando se está amando
+As bocas não se deixam
+E o segundo não tem fim
+
+Um dia feliz
+Às vezes é muito raro
+Falar é complicado
+Quero uma canção
+
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto
+Fácil, extremamente fácil
+Pra você, e eu e todo mundo cantar junto
+
+Tudo se torna claro
+Pateticamente pálido
+E o coração dispara
+Se eu vejo o teu carro
+A vida é tão simples
+Mas dá medo de tocar
+As mãos se procuram sós
+Como a gente mesmo quis
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Por Você (Barão Vermelho)</nome>
+                <sample>ryb3_03_PorVoce.mp3</sample>
+                <autor>
+(Frejat, Guto Goffi, Mauro Stª Cecília) 
+Warner Chappell, RF Edições (Warner Chappell)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Por você
+Eu dançaria tango no teto
+Eu limparia
+Os trilhos do metrô
+Eu iria a pé
+Do Rio à Salvador
+
+Eu aceitaria
+A vida como ela é
+Viajaria a prazo
+Pro inferno
+Eu tomaria banho gelado
+No inverno
+
+Por você
+Eu deixaria de beber
+Por você
+Eu ficaria rico num mês
+Eu dormiria de meia
+Pra virar burguês
+
+Eu mudaria
+Até o meu nome
+Eu viveria
+Em greve de fome
+Desejaria todo o dia
+A mesma mulher
+
+Por você, por você
+Por você, por você
+
+Por você
+Conseguiria até ficar alegre
+Pintaria todo o céu
+De vermelho
+Eu teria mais herdeiros
+Que um coelho
+
+Eu aceitaria
+A vida como ela é
+Viajaria a prazo
+Pro inferno
+Eu tomaria banho gelado
+No inverno
+
+Eu mudaria
+Até o meu nome
+Eu viveria
+Em greve de fome
+Desejaria todo o dia
+A mesma mulher
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Balada do Louco (Mutantes)</nome>
+                <sample>ryb3_04_BaladaDoLouco.mp3</sample>
+                <autor>
+(Arnaldo Dias, Rita Lee)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Dizem que sou louco por pensar assim
+Se eu sou muito louco por eu ser feliz
+Mas louco é quem me diz
+E não é feliz, não é feliz
+
+Se eles são bonitos, sou Alain Delon
+Se eles são famosos, sou Napoleão
+Mas louco é quem me diz
+E não é feliz, não é feliz
+
+Eu juro que é melhor
+Não ser o normal
+Se eu posso pensar que Deus sou eu
+
+Se eles têm três carros, eu posso voar
+Se eles rezam muito, eu já estou no céu
+Mas louco é quem me diz
+E não é feliz, não é feliz
+
+Eu juro que é melhor
+Não ser o normal
+Se eu posso pensar que Deus sou eu
+
+Sim, sou muito louco, não vou me curar
+Já não sou o único que encontrou a paz
+Mas louco é quem me diz
+E não é feliz, eu sou feliz
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>O Astronauta de Mármore (Nenhum de Nós)</nome>
+                <sample>ryb3_05_OAstronautaDeMarmore.mp3</sample>
+                <autor>
+(David Bowie, vers. Thedy Correa, Stein, Sady)
+Chrysalis Music (Basement Brazil), RZO Music (Fermata), 
+Fleur Music (EMI Music - Itaipu)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+A lua inteira agora é um manto negro
+O fim das vozes no meu rádio
+São quatro ciclos no escuro deserto do céu
+Quero um machado pra quebrar o gelo
+Quero acordar do sonho agora mesmo
+Quero uma chance de tentar viver sem dor
+
+Sempre estar lá e ver ele voltar
+Não era mais o mesmo 
+Mas estava em seu lugar
+Sempre estar lá e ver ele voltar
+O tolo teme a noite 
+Como a noite vai temer o fogo
+Vou chorar sem medo
+Vou lembrar do tempo
+De onde eu via o mundo azul
+
+A trajetória escapa o risco nu
+As nuvens queimam o céu nariz azul
+Desculpe, estranho, eu voltei mais puro do céu
+Na lua o lado escuro é sempre igual
+No espaço a solidão é tão normal
+Desculpe, estranho, eu voltei mais puro do céu
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Vento Ventania (Biquini Cavadão)</nome>
+                <sample>ryb3_06_VentoVentania.mp3</sample>
+                <autor>
+(Alvaro, Bruno, Miguel, Sheik, Coelho, Beni) 
+Universal Music Publishing
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Vento, ventania 
+Me leve para
+As bordas do céu
+Pois vou puxar
+As barbas de Deus
+Vento, ventania
+Me leve pra onde
+Nasce a chuva
+Pra lá de onde
+O vento faz a curva
+
+Me deixe cavalgar 
+Nos seus desatinos 
+Nas revoadas, redemoinhos
+Vento, ventania
+Me leve sem destino 
+
+Quero juntar-me a você
+E carregar
+Os balões pro mar
+Quero enrolar
+As pipas nos fios
+Mandar meus beijos
+Pelo ar
+
+Vento, ventania
+Me leve pra qualquer lugar
+Me leve para
+Qualquer canto do mundo
+Ásia, Europa, América 
+
+Lê, Lê, Lê, Lê, Lê, Lê, Lê
+
+Vento, ventania
+Me leve para
+As bordas do céu
+Pois vou puxar
+As barbas de Deus
+Vento, ventania
+Me leve para
+Os quatro cantos do mundo
+Me leve pra qualquer lugar
+
+Me deixe cavalgar
+Nos seus desatinos
+Nas revoadas, redemoinhos
+Vento, ventania
+Me leve sem destino
+
+Quero mover
+As pás dos moinhos
+E abrandar o calor do sol
+Quero emaranhar
+O cabelo da menina
+Mandar meus beijos
+Pelo ar
+
+Vento, ventania
+Agora que estou solto na vida
+Me leve pra qualquer lugar
+Me leve mas não me faça voltar
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Marylou (Ultraje a Rigor)</nome>
+                <sample>ryb3_07_Marylou.mp3</sample>
+                <autor>
+(Roger, Scandurra, Maurício Defendi)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Eu tinha uma galinha
+Que se chamava Marylou
+Um dia fiquei com fome
+E papei a Marylou
+
+Marylou
+Marylou
+Tinha cara de babaca
+Marylou
+Marylou
+Botava ovo pela cloaca
+
+Eu tinha uma vaquinha
+Que se chamava Sara Lee
+Um dia fiquei com fome
+E papei a Sara Lee
+
+Sara Lee
+Sara Lee
+Tinha cara de careta
+Sara Lee
+Sara Lee
+Botava leite pela teta
+
+Eu tinha uma galinha
+Que se chamava Marylou
+Um dia fiquei com fome
+E papei a Marylou
+
+Marylou
+Marylou
+Tinha cara de babaca
+Marylou
+Marylou
+Botava ovo pela cloaca
+
+Marylou
+Transava até com urubu
+Marylou
+Botava ovo pelo...
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>I Saw You Saying (That You Say That You Saw - Raimundos)</nome>
+                <sample>ryb3_08_ISawYouSayingThatYouSayThatYouSaw.mp3</sample>
+                <autor>
+(Rodolfo, Gabriel Thomaz)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Reconheci a Madonna ali parada no jardim
+Não resisti fui perguntar 
+O que ela achava de mim
+Eu não sei falar inglês
+Ela não entende uma palavra em português
+
+I saw you saying that you say that you saw
+I saw you saying that you say that you saw
+I feel good because you put your butt on me
+I feel good because you put your butt on me
+
+Perguntei para o meu pai
+O que ela me disse
+Ela disse, meu rapaz:
+I saw you saying that you say that you saw
+I saw you saying that you say that you saw
+I feel good because you put your butt on me
+I feel good because you put your butt on me
+I feel good because you put your butt on
+
+The hula hula song make me feel so strong
+The hula hula hey goodbye I’m going away
+The hula hula song make me feel so strong
+The hula hula hey goodbye I’m going away
+Because you put your butt on me
+You know put your butt on me
+You know put your butt on me
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Quando O Sol Se For (Detonautas)</nome>
+                <sample>ryb3_09_QuandoOSolSeFor.mp3</sample>
+                <autor>
+(Tico Stª Cruz, DJ Cleston, Rodrigo Netto, Tchello, Renato Rocha, Fabio Brasil)
+Warner Chappell
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Penso no que faço 
+No que fiz e no que vou fazer
+Hoje o seu retrato 
+Só me mostra o que eu quero esquecer
+
+Quando o sol se for 
+Meu amor, vou onde você for
+Quando o sol se for 
+A luz indicará você pra mim
+
+Passo o tempo todo
+Tudo passa, passa a solução
+Sempre saio à noite 
+A noite sempre deixa a sensação
+
+Quando o sol se for 
+Meu amor, vou onde você for
+Quando o sol se for 
+A luz indicará você pra mim
+
+E eu fico a te esperar
+Abro os olhos mas não posso ver
+Não me canso de tentar
+Eu não quero entender
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pescador de Ilusões (O Rappa)</nome>
+                <sample>ryb3_10_PescadorDeIlusoes.mp3</sample>
+                <autor>
+(Marcelo Yuka, Marcelo Falcão, Alexandre de Menezes, Lauro, Marcelo Lobato)
+Warner Chappell, Humaitá 
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Se meus joelhos
+Não doessem mais
+Diante de um bom motivo
+Que me traga fé
+Que me traga fé
+
+Se por alguns segundos
+Eu observar
+E só observar
+A isca e o anzol
+A isca e o anzol
+A isca e o anzol
+A isca e o anzol
+
+Ainda assim estarei
+Pronto pra comemorar
+Se eu me tornar
+Menos faminto
+E curioso
+Curioso
+
+O mar escuro
+Trará o medo
+Lado a lado
+Com os corais
+Mais coloridos
+
+Valeu a pena
+Êh, Êh
+Valeu a pena
+Êh, Êh
+Sou pescador de ilusões
+Sou pescador de ilusões
+
+Se eu ousar catar
+Na superfície
+De qualquer manhã
+As palavras
+De um livro
+Sem final, sem final,
+Sem final, sem final,
+Final
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>A Cruz e a Espada (RPM)</nome>
+                <sample>ryb3_11_ACruzEAEspada.mp3</sample>
+                <autor>
+(Paulo Ricardo, Luis Schiavon)
+Warner Chappell, Universal Music Publishing
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Havia um tempo em que eu vivia
+Um sentimento quase infantil
+Havia o medo e a timidez
+Todo um lado que você nunca viu
+
+E agora eu vejo
+Aquele beijo era mesmo o fim
+Era o começo
+E o meu desejo se perdeu em mim
+
+E agora eu ando correndo tanto
+Procurando aquele novo lugar
+Aquela festa, o que me resta
+Encontrar alguém legal pra ficar
+
+E agora eu vejo
+Aquele beijo era mesmo o fim
+Era o começo
+E o meu desejo se perdeu em mim 
+ 
+E agora é tarde
+Acordo tarde
+Do meu lado alguém
+Que eu não conhecia
+Outra criança adulterada
+Pelos anos que a pintura escondia
+                </letra>
+			</faixa>
+			<faixa>
+				<nome>Pela Última Vez (Nx Zero)</nome>
+                <sample>ryb3_12_PelaUltimaVez.mp3</sample>
+                <autor>
+(Di Ferrero, Gee Rocha)
+Midas (Universal Music Publishing)
+                </autor>
+                <original>
+
+                </original>
+                <letra>
+Não, eu não vou te deixar ir embora assim
+Nada vai funcionar sem você aqui
+Mas algo me diz
+Meu mundo vai cair em pedaços
+
+E quanto aos nossos planos 
+E todas as promessas
+Agora é muito tarde pra tentar me desculpar
+
+Eu sei e nada vai mudar
+Mas tenho tanta coisa pra falar
+Sobre você, sobre mim, sobre nós
+Tente me ouvir agora
+
+Pela última vez
+Pela última vez
+Eu quero que prometa
+Todo seu destino é meu
+
+Pela última vez
+Pela última vez
+Eu quero que prometa
+Todo seu destino é meu
+
+Agora o mundo me deixa sem defesa
+Todos me olham mas realmente ninguém vê
+Ninguém vê que estou sozinho agora
+Tenho que esquecer
+
+Você me deu muito mais do que palavras
+Quando tudo não passava de ilusão
+Eu nunca te agradeci por ser sempre assim
+
+Eu sei, nada vai mudar
+Mas tenho tanta coisa pra falar
+Sobre você 
+Sobre mim, sobre nós
+Tente me ouvir agora 
+
+Pela última vez
+Pela última vez
+Eu quero que prometa 
+Todo seu destino é meu
+
+Pela última vez
+Pela última vez
+Eu quero que prometa 
+Todo seu destino é meu
+
+E o meu destino é seu
+Espere onde estiver
+                </letra>
+			</faixa>
+		</musicas>
+	</cd>
+</cds>

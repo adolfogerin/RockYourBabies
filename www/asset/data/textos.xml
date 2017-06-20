@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textos>
+	<botoes>
+		<descartar>Apagar conteúdo local</descartar>
+        <comprar>COMPRAR</comprar>
+		<restaurar>Restaurar compras</restaurar>
+	</botoes>
+    <texto>
+        <carregando>carregando...</carregando>
+        <oferta>OFERTA</oferta>
+        <gostou>Gostou?</gostou>
+        <musica>Compre esta música por </musica>
+        <cd>Ou todas as músicas do CD por </cd>
+        <colecao>Leve a coleção completa por </colecao>
+        <moedaAndroid>R$ </moedaAndroid>
+        <moedaIOS>US$ </moedaIOS>
+        <musicaAndroid>2,29</musicaAndroid>
+        <musicaIOS>0.49</musicaIOS>
+        <cdAndroid>7,99</cdAndroid>
+        <cdIOS>4.99</cdIOS>
+        <colecaoAndroid>27,80</colecaoAndroid>
+        <colecaoIOS>50.89</colecaoIOS>
+		<samples>asset/samples/</samples>
+		<musicas>asset/music/</musicas>
+        <idade>Área para Adultos</idade>
+        <sequencia>Digite a sequência:</sequencia>
+        <um>Um</um>
+        <dois>Dois</dois>
+        <tres>Três</tres>
+        <quatro>Quatro</quatro>
+        <cinco>Cinco</cinco>
+        <seis>Seis</seis>
+        <sete>Sete</sete>
+        <oito>Oito</oito>
+        <nove>Nove</nove>
+        <zero>Zero</zero>
+    </texto>
+</textos>
